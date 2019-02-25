@@ -1,1 +1,3 @@
-Use some animation in subtle ways...
+# Animation
+
+Use some animation, in subtle ways..
