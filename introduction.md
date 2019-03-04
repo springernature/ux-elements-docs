@@ -1,3 +1,4 @@
-# Welcome to the Springer Nature Design System
+# Welcome to Elements. 
+## The design system for Springer Nature.
 
 Please select a brand. 
