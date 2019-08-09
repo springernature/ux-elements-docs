@@ -1,4 +1,4 @@
-##Pattern 
+## Pattern 
 
 A high-level solution to a common design problem. May use multiple components put together in different ways. Generally, a basis for solving a design problem, not a prescriptive solution.
 
@@ -6,13 +6,13 @@ A pattern will generally be used to help a user solve a task in a universal way.
 
 **Examples: tabs, video controls, checkout steps, article page, journal homepage, anchor link conventions**
 
-##Component 
+## Component 
 
 Specific chunks of the UI that can be put together to compose a page. Each component is prescriptive and has a specific role. Components can be grouped to form other components. They can also be put together to form a Pattern that applies universally. They may also have pattern conventions applied to them (for example the interaction behaviour of 'disabled states' in a form input)
 
 **Examples: card, footer, banner, header**
 
-##Package
+## Package
 
 A block of code representing a component or some global code that can be installed in a product application through NPM
 
