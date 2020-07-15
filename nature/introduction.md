@@ -1,1 +1,1 @@
-This is the styleguide of Nature Research brand!!! Welcome!
+This is the Nature brand!!! Welcome!

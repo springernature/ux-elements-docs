@@ -1,1 +1,1 @@
-This is the styleguide of the Springer brand!!! Welcome!
+This is the Springer brand!!! Welcome!
