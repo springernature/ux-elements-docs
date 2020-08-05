@@ -1,1 +1,1 @@
-# todo: write about Nature typography
+# todo: write about Springer typography
