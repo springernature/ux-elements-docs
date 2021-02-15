@@ -2,13 +2,14 @@
 ## Use these rules to keep our writing clear and consistent. This applies to all public facing content.
 
 
-### Avoid common bugbears 
+### Avoid common mistakes 
 
 Split infinitives are often seen as grammatical mistakes by traditionalists. They occur when other words creep into the middle of an English infinitive, e.g. 
 
-No					Yes			
-To quickly reply 			To reply quickly
-To adequately assess			To assess adequately
+Don't | Do
+------ | ------
+To quickly reply    | To reply quickly  
+To adequately assess   | To assess adequately  
 
 ### Logging in and out
 
