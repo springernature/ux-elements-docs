@@ -6,10 +6,10 @@
 
 Split infinitives are often seen as grammatical mistakes by traditionalists. They occur when other words creep into the middle of an English infinitive, e.g. 
 
-Don't | Do
+Do | Don't
 ------ | ------
-To quickly reply    | To reply quickly  
-To adequately assess   | To assess adequately  
+To reply quickly    | To quickly reply  
+To assess adequately   | To adequately asses  
 
 ### Logging in and out
 
