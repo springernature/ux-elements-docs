@@ -1,6 +1,6 @@
 # Inclusive language
  
-## Write with respect towards individuals and groups, avoiding terms or assumptions that hurt and exclude people.
+## Write with respect towards individuals and groups by avoiding terms or assumptions that hurt and exclude people.
  
 For more information on inclusive language, please see:
 https://hive.springernature.com/docs/DOC-207041
