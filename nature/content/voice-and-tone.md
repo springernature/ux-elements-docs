@@ -31,21 +31,24 @@ One way to make sure our writing sounds more conversational is to replace formal
 
 Casual | Formal
 ------ | ------
-Titled   | Cell  
-Make sure   | Cell
-Need   | Cell
-Cell   | Cell
-Cell   | Cell
-Cell   | Cell
-Cell   | Cell
-Cell   | Cell
-Cell   | Cell
-Cell   | Cell
-Cell   | Cell
-Cell   | Cell
-Cell   | Cell
-Cell   | Cell
-Cell   | Cell
+Titled   | … not entitled  
+Make sure   | … not ensure
+Need   | … not require
+On/about   | … not regarding
+Follow   | … not adhere to
+Able to   | … not in a position to
+Help   | … not assistance
+Start   | … not commence
+Let   | … not enable
+More   | … not further
+But   | … not however
+To   | … not in order to
+Get   | … not obtain
+Give   | … not provide
+Question   | … not query
+Fix   | … not resolve
+So   | … not therefore
+Use   | … not utilise
 
 Casual				Formal	
 ~~Normal~~ 		 ~~… not formal~~
