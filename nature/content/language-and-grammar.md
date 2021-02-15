@@ -1,4 +1,6 @@
-## Language and Grammar
+# Language and Grammar
+##Use these rules to keep our writing clear and consistent. This applies to all public facing content.
+
 
 ### Avoid common bugbears 
 
