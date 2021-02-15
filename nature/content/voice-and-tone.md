@@ -50,26 +50,4 @@ Fix   | … not resolve
 So   | … not therefore
 Use   | … not utilise
 
-Casual				Formal	
-~~Normal~~ 		 ~~… not formal~~
-
-Titled			… not entitled  
-Make sure		… not ensure
-Need			… not require
-On/about		… not regarding
-Follow			… not adhere to
-Able to			… not in a position to
-Help			… not assistance
-Start			… not commence
-Let			… not enable
-More			… not further
-But			… not however
-To			… not in order to
-Get			… not obtain
-Give			… not provide
-Question		… not query
-Fix			… not resolve
-So			… not therefore
-Use 			… not utilise
-
 We’re not talking about banning any words. But if you find you’re using words frequently from the right hand column, try replacing them with words from the left and see how they can lift the tone of voice.
