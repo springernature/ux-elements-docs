@@ -27,7 +27,25 @@ Instead of the error message, “Please check your login details”, you could s
 
 ### Choose less formal wording
 
-One way to make sure our writing sounds more conversational is to replace formal words with more normal ones - the sort we’d use ourselves every day: 
+One way to make sure our writing sounds more conversational is to replace formal words with more casual ones - the sort we’d use ourselves every day: 
+
+Casual | Formal
+------ | ------
+Titled   | Cell  
+Make sure   | Cell
+Need   | Cell
+Cell   | Cell
+Cell   | Cell
+Cell   | Cell
+Cell   | Cell
+Cell   | Cell
+Cell   | Cell
+Cell   | Cell
+Cell   | Cell
+Cell   | Cell
+Cell   | Cell
+Cell   | Cell
+Cell   | Cell
 
 Casual				Formal	
 ~~Normal~~ 		 ~~… not formal~~
