@@ -39,7 +39,7 @@ Some words or grammatical constructions have different forms that aren’t neces
 
 ### Use capitals only when appropriate
 
-In general, we should only use initial capitals when referring to a specific person, job title or thing, such as:
+We should only use initial capitals when referring to a specific person, job title or thing, such as:
 * Editorial Board Member
 * Editor
 * Reviewer Finder
