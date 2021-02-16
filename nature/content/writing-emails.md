@@ -27,9 +27,7 @@ b)    To support the process
 
 While it can be tempting to throw everything into an email just to make sure we’ve covered ourselves – it doesn’t make for a user-friendly experience. Our aim is to keep things simple and single-minded. 
 
-This means we should start by cutting out the clichés. It can be tempting to fall back on stock phrases when opening and closing emails. However, in most cases, the best solution is simply to remove them and get straight to the point. A good example is the commonplace greeting, ‘We hope this email finds you well’:
-
-https://www.thecut.com/2016/08/email-etiquette-stop-signing-i-hope-youre-well.html 
+This means we should start by cutting out the clichés. It can be tempting to fall back on stock phrases when opening and closing emails. However, in most cases, the best solution is simply to remove them and get straight to the point. A good example is the commonplace greeting, ‘We hope this email finds you well’, which can sound empty and meaningless.
 
 The same goes for using a standard closing such as, ‘We look forward to hearing from you soon’. If we need to hear from someone soon, it’s far better to be as specific as we can and to say it up front.
 
@@ -41,7 +39,7 @@ Subject line: Scientific Reports: Your submission to our journal
 
 The above subject line is 50 characters. Bear in mind that an iPhone only shows the first 40 characters when an email arrives in someone’s mailbox, so it’s important to to include the most important part of the message within the first 40 or so characters). 
 
-Tip: Don’t include ‘Confidential’ in subject lines as the emails are likely to end up in the recipient’s spam folder.
+> Tip: Don’t include ‘Confidential’ in subject lines as the emails are likely to end up in the recipient’s spam folder.
 
 ### Using our no-reply email address
 
@@ -88,6 +86,6 @@ realise   | realize
 recognise   | recognize  
 
 You can find a comprehensive list of British and American spelling differences here:
-
 http://www.tysto.com/uk-us-spelling-list.html 
+
 One exception is the ‘License to publish’. Here we use the US spelling as it is how most people in the publishing world refer to it. 
