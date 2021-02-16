@@ -2,8 +2,7 @@
  
 ## Write with respect towards individuals and groups by avoiding terms or assumptions that hurt and exclude people.
  
-For more information on inclusive language, please see:
-https://hive.springernature.com/docs/DOC-207041
+For more information on inclusive language, [please see our company guidelines](https://drive.google.com/file/d/1gMAfRLdJVsaxiAg_Jen8WN8N5cz29i1r/view)
  
 ### Avoid gendered pronouns
 
