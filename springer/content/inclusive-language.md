@@ -2,9 +2,8 @@
  
 ## Write with respect towards individuals and groups by avoiding terms or assumptions that hurt and exclude people.
  
-For more information on inclusive language, please see:
-https://hive.springernature.com/docs/DOC-207041
- 
+For more information on inclusive language, you can also [read our company guidelines](https://drive.google.com/file/d/1gMAfRLdJVsaxiAg_Jen8WN8N5cz29i1r/view)
+
 ### Avoid gendered pronouns
 
 One of the main ways we can employ inclusive language is to avoid using gendered pronouns, which automatically assume there are only two genders and do not account for all gender identities. In practice this means using the personal pronoun ‘they’ or ‘their’ instead of saying ‘he or she’ / ‘his or her’ or using he/him as a default to signify all genders.
