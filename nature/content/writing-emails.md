@@ -73,18 +73,19 @@ If you’re using Microsoft Word, you can set the spell checker to British Engli
 
 In British English, both -ise and -ize endings are accepted for many words, but we tend to use the -ise ending, as follows:
 
-BRITISH				US
-apologise				apologize
-authorise				authorize
-categorise				categorize
-criticise					criticize				
-emphasise				emphasize
-finalise					finalize
-organise				organize
-personalise				personalize
-prioritise				prioritize
-realise					realize
-recognise				recognize
+British | American
+:----- | :-----
+apologise   | apologize  
+authorise   | authorize  
+categorise   | categorize  
+criticise   | criticize  
+emphasise   | emphasize  
+finalise   | finalize  
+organise   | organize  
+personalise   | personalize  
+prioritise   | prioritize  
+realise   | realize  
+recognise   | recognize  
 
 You can find a comprehensive list of British and American spelling differences here:
 
