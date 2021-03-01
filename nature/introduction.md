@@ -6,7 +6,7 @@ Nature Portfolio is here to serve the research community by publishing its most 
 
 This toolkit will ultimately provide you with:
 
-- Our styleguide and princples that define the Nature Portfolio digital brand with guidelines on accessibility, layout, typography, and iconography amongst others
+- Our styleguide and principles that define the Nature Portfolio digital brand with guidelines on accessibility, layout, typography, and iconography amongst others
 - Components that are used on Nature Portfolio branded products that can be consumed or copied for your products
 - Patterns for common tasks that our users do on our sites. These may be a combination of components and style guidelines
 - Guidance on how to write content that is more conversational and concise for our audiences.
