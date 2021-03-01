@@ -1,6 +1,6 @@
 ## Nature Portfolio
 
-Welcome to the toolkit for our Nature Portfolio digital product brand.  
+Welcome to the toolkit for products under the Nature Portfolio brand.
 
 Nature Portfolio is here to serve the research community by publishing its most significant discoveries - findings that advance knowledge and address some of the greatest challenges that we face as a society today. Our journals publish primary research, reviews, critical comment, news and analysis.  
 
