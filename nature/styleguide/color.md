@@ -12,12 +12,6 @@ blue          | -                     | #006699        | Accent color for infogr
 
 ## Background colors
 
-Name          | Variable              | Value          | Used for                                                   | 
-:------------ | :---------------------|:---------------|:-----------------------------------------------------------|
-gunmetal      | -                     | #29303C        | Background color for Top level items and featured articles
-gunmetal      | -                     | #29303C        | Background color for Top level items and featured articles
-
-
 <table>
 	<tr>
 		<th>
