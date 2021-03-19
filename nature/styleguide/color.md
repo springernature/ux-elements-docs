@@ -10,6 +10,8 @@ orange        | -                     | #f15a40        | Accent color for infogr
 blue          | -                     | #006699        | Accent color for infographics
 
 
+
+
 ## Background colors
 
 <table>
@@ -34,8 +36,8 @@ blue          | -                     | #006699        | Accent color for infogr
 		<td>
 			--
 		</td>
-		<td style="background-color: #29303C; color: #ffffff">
-			#29303C
+		<td style="background-color: #29303c; color: #ffffff">
+			#29303c
 		</td>
 		<td>
 			Background color for Top level items and featured articles
@@ -43,13 +45,26 @@ blue          | -                     | #006699        | Accent color for infogr
 	</tr>	
 	<tr>
 		<td>
-			-
+			gunmetal 2
 		</td>
 		<td>
 			-
 		</td>
 		<td style="background-color: #536179; color: #ffffff">
 			#536179
+		</td>
+		<td>
+			Background color for illustrations
+	</td>
+	<tr>
+		<td>
+			gunmetal 3
+		</td>
+		<td>
+			-
+		</td>
+		<td style="background-color: #c2c9d6; color: #ffffff">
+			#c2c9d6
 		</td>
 		<td>
 			Background color for illustrations
