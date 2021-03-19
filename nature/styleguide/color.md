@@ -68,4 +68,30 @@ blue          | -                     | #006699        | Accent color for infogr
 		</td>
 		<td>
 			Background color for illustrations
+	</td>
+	<tr>
+		<td>
+			grey
 		</td>
+		<td>
+			-
+		</td>
+		<td style="background-color: #91989b; color: #ffffff">
+			#91989b
+		</td>
+		<td>
+			Background color for illustrations
+	</td>
+	<tr>
+		<td>
+			light grey
+		</td>
+		<td>
+			-
+		</td>
+		<td style="background-color: #e6e7e8; color: #ffffff">
+			#e6e7e8
+		</td>
+		<td>
+			Background color for illustrations
+	</td>
