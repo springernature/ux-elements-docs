@@ -34,7 +34,7 @@ blue          | -                     | #006699        | Accent color for infogr
 			gunmetal 
 		</td>
 		<td>
-			--
+			-
 		</td>
 		<td style="background-color: #29303c; color: #ffffff">
 			#29303c
