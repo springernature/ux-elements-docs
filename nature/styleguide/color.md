@@ -40,7 +40,7 @@ blue          | -                     | #006699        | Accent color for infogr
 			#29303c
 		</td>
 		<td>
-			Background color for Top level items and featured articles
+			Background color for Top level and featured items
 		</td>
 	</tr>	
 	<tr>
