@@ -1,15 +1,66 @@
 # Color
 
+
 ## Accent colors
 
-Name          		| Variable              | Value          | Used for                                    | 
-:---------------------- | :---------------------|:---------------|:--------------------------------------------|
-bright red    		| -                     | #ed1C24        | Accent color for illustrations and services
-dark red      		| -                     | #940720        | Accent color Accent color and for highlighting text
-orange        		| -                     | #f15a40        | Accent color for infographics
-blue          		| -                     | #006699        | Accent color for infographics
-
-
+<table>
+	<tr>
+		<th>
+			Name
+		</th>
+		<th>
+			Variable
+		</th>	
+		<th>
+			Value
+		</th>
+		<th>
+			Used for
+		</th>
+	</tr>
+	<tr>
+		<td>
+			bright red  
+		</td>
+		<td>
+			N/A 
+		</td>
+		<td style="background-color: #ed1C24; color: #ffffff">
+			##ed1C24
+		</td>
+		<td>
+			Accent color for illustrations and services
+		</td>
+	</tr>	
+	<tr>
+		<td>
+			dark red 
+		</td>
+		<td>
+			N/A 
+		</td>
+		<td style="background-color: #940720; color: #ffffff">
+			#940720
+		</td>
+		<td>
+			Accent color and for highlighting text
+		</td>
+	</tr>	
+	<tr>
+		<td>
+			orange 
+		</td>
+		<td>
+			N/A 
+		</td>
+		<td style="background-color: #f15a40; color: #ffffff">
+			#f15a40
+		</td>
+		<td>
+			Accent color for infographics
+		</td>
+	</tr>		
+</table>	
 
 
 ## Background colors
