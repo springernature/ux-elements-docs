@@ -114,7 +114,7 @@
 		<td>
 			N/A
 		</td>
-		<td style="background-color: #c2c9d6; color: #ffffff">
+		<td style="background-color: #c2c9d6">
 			#c2c9d6
 		</td>
 		<td>
@@ -127,7 +127,7 @@
 		<td>
 			N/A
 		</td>
-		<td style="background-color: #91989b; color: #ffffff">
+		<td style="background-color: #91989b">
 			#91989b
 		</td>
 		<td>
@@ -140,7 +140,7 @@
 		<td>
 			-
 		</td>
-		<td style="background-color: #e6e7e8; color: #ffffff">
+		<td style="background-color: #e6e7e8">
 			#e6e7e8
 		</td>
 		<td>
