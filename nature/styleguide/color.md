@@ -95,3 +95,4 @@ blue          		| -                     | #006699        | Accent color for info
 		<td>
 			Background color for illustrations
 	</td>
+</table>
