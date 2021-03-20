@@ -147,3 +147,66 @@
 			Background color for illustrations
 	</td>
 </table>
+
+
+## Global UI colors
+
+<table>
+	<tr>
+		<th>
+			Name 
+		</th>
+		<th>
+			Variable 
+		</th>	
+		<th>
+			Value 
+		</th>
+		<th>
+			Used for 
+		</th>
+	</tr>
+	<tr>
+		<td>
+			black  
+		</td>
+		<td>
+			$context--text-color 
+		</td>
+		<td style="background-color: #222222; color: #ffffff">
+			#222222
+		</td>
+		<td>
+			Main color for text
+		</td>
+	</tr>	
+	<tr>
+		<td>
+			grey-dark2  
+		</td>
+		<td>
+			$context--text-secondary-color  
+		</td>
+		<td style="background-color: #666666; color: #ffffff">
+			#666666
+		</td>
+		<td>
+			Secondary color for text
+		</td>
+	</tr>	
+	<tr>
+		<td>
+			link  
+		</td>
+		<td>
+			N/A 
+		</td>
+		<td style="background-color: #006699; color: #ffffff">
+			#006699
+		</td>
+		<td>
+			link color
+		</td>
+	</tr>		
+</table>	
+
