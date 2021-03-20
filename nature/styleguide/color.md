@@ -6,16 +6,16 @@
 <table>
 	<tr>
 		<th>
-			Name
+			Name 
 		</th>
 		<th>
-			Variable
+			Variable 
 		</th>	
 		<th>
-			Value
+			Value 
 		</th>
 		<th>
-			Used for
+			Used for 
 		</th>
 	</tr>
 	<tr>
@@ -34,7 +34,7 @@
 	</tr>	
 	<tr>
 		<td>
-			dark red 
+			dark red   
 		</td>
 		<td>
 			N/A 
@@ -48,7 +48,7 @@
 	</tr>	
 	<tr>
 		<td>
-			orange 
+			orange  
 		</td>
 		<td>
 			N/A 
@@ -68,21 +68,21 @@
 <table>
 	<tr>
 		<th>
-			Name     
+			Name         
 		</th>
 		<th>
-			Variable
+			Variable      
 		</th>	
 		<th>
-			Value
+			Value    
 		</th>
 		<th>
-			Used for
+			Used for    
 		</th>
 	</tr>
 	<tr>
 		<td>
-			gunmetal 
+			gunmetal  
 		</td>
 		<td>
 			-
@@ -96,7 +96,7 @@
 	</tr>	
 	<tr>
 		<td>
-			gunmetal 2
+			gunmetal 2  
 		</td>
 		<td>
 			N/A
@@ -109,7 +109,7 @@
 	</td>
 	<tr>
 		<td>
-			gunmetal 3
+			gunmetal 3  
 		</td>
 		<td>
 			N/A
@@ -122,7 +122,7 @@
 	</td>
 	<tr>
 		<td>
-			grey
+			grey  
 		</td>
 		<td>
 			N/A
@@ -135,7 +135,7 @@
 	</td>
 	<tr>
 		<td>
-			light grey
+			light grey  
 		</td>
 		<td>
 			-
