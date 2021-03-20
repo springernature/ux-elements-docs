@@ -85,7 +85,7 @@
 			gunmetal  
 		</td>
 		<td>
-			-
+			N/A 
 		</td>
 		<td style="background-color: #29303c; color: #ffffff">
 			#29303c
@@ -99,7 +99,7 @@
 			gunmetal 2  
 		</td>
 		<td>
-			N/A
+			N/A 
 		</td>
 		<td style="background-color: #536179; color: #ffffff">
 			#536179
@@ -112,7 +112,7 @@
 			gunmetal 3  
 		</td>
 		<td>
-			N/A
+			N/A 
 		</td>
 		<td style="background-color: #c2c9d6">
 			#c2c9d6
@@ -125,7 +125,7 @@
 			grey  
 		</td>
 		<td>
-			N/A
+			N/A 
 		</td>
 		<td style="background-color: #91989b">
 			#91989b
@@ -138,7 +138,7 @@
 			light grey  
 		</td>
 		<td>
-			-
+			N/A 
 		</td>
 		<td style="background-color: #e6e7e8">
 			#e6e7e8
