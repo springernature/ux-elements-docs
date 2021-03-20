@@ -17,7 +17,7 @@ blue          | -                     | #006699        | Accent color for infogr
 <table>
 	<tr>
 		<th>
-			Name
+			Name     
 		</th>
 		<th>
 			Variable
