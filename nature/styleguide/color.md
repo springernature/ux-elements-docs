@@ -2,12 +2,12 @@
 
 ## Accent colors
 
-Name          | Variable              | Value          | Used for                                    | 
-:------------ | :---------------------|:---------------|:--------------------------------------------|
-bright red    | -                     | #ed1C24        | Accent color for illustrations and services
-dark red      | -                     | #940720        | Accent color Accent color and for highlighting text
-orange        | -                     | #f15a40        | Accent color for infographics
-blue          | -                     | #006699        | Accent color for infographics
+Name          		| Variable              | Value          | Used for                                    | 
+:---------------------- | :---------------------|:---------------|:--------------------------------------------|
+bright red    		| -                     | #ed1C24        | Accent color for illustrations and services
+dark red      		| -                     | #940720        | Accent color Accent color and for highlighting text
+orange        		| -                     | #f15a40        | Accent color for infographics
+blue          		| -                     | #006699        | Accent color for infographics
 
 
 
@@ -48,7 +48,7 @@ blue          | -                     | #006699        | Accent color for infogr
 			gunmetal 2
 		</td>
 		<td>
-			-
+			N/A
 		</td>
 		<td style="background-color: #536179; color: #ffffff">
 			#536179
@@ -61,7 +61,7 @@ blue          | -                     | #006699        | Accent color for infogr
 			gunmetal 3
 		</td>
 		<td>
-			-
+			N/A
 		</td>
 		<td style="background-color: #c2c9d6; color: #ffffff">
 			#c2c9d6
@@ -74,7 +74,7 @@ blue          | -                     | #006699        | Accent color for infogr
 			grey
 		</td>
 		<td>
-			-
+			N/A
 		</td>
 		<td style="background-color: #91989b; color: #ffffff">
 			#91989b
