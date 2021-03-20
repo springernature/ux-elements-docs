@@ -26,7 +26,7 @@
 			N/A 
 		</td>
 		<td style="background-color: #ed1C24; color: #ffffff">
-			##ed1C24
+			#ed1C24
 		</td>
 		<td>
 			Accent color for illustrations and services
