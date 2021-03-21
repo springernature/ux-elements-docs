@@ -69,7 +69,7 @@ Our color system creates a user-friendly interface for researchers, while also c
 	</tr>		
 </table>	
 
----
+
 
 ## Background colors
 
@@ -156,7 +156,7 @@ Our color system creates a user-friendly interface for researchers, while also c
 	</td>
 </table>
 
----
+
 
 ## Global UI colors
 
@@ -205,7 +205,7 @@ Our color system creates a user-friendly interface for researchers, while also c
 	</tr>	
 	<tr>
 		<td>
-			link  
+			blue  
 		</td>
 		<td>
 			$context--link-color 
@@ -219,17 +219,47 @@ Our color system creates a user-friendly interface for researchers, while also c
 	</tr>		
 		<tr>
 		<td>
-			hover  
+			blue  
 		</td>
 		<td>
 			$context--link-hover-color 
 		</td>
-		<td style="background-color: #006699; color: #ffffff">
-			#006699
+		<td style="background-color: #0077B3; color: #ffffff">
+			#0077B3
 		</td>
 		<td>
-			Hove state for text links
+			Hover state for text links
 		</td>
+	</tr>
 	</tr>		
+		<tr>
+		<td>
+			purple  
+		</td>
+		<td>
+			$context--link-visited-color 
+		</td>
+		<td style="background-color: #a345c9; color: #ffffff">
+			#a345c9
+		</td>
+		<td>
+			Visited state for text links
+		</td>
+	</tr>
+	</tr>		
+		<tr>
+		<td>
+			grey-mid1  
+		</td>
+		<td>
+			$context--border-color
+		</td>
+		<td style="background-color: #dadada">
+			#dadada
+		</td>
+		<td>
+			Color for borders and dividers
+		</td>
+	</tr>
 </table>	
 
