@@ -2,9 +2,9 @@
 
 Our color system creates a user-friendly interface for researchers, while also contributing to the character of Nature Portfolio. We organise colors into 3 groups; accent, background and user interface.
 
-* Accent colors derive from the brand color pallete. We use them sparingly, such as for the journal identity or infographics and marketing. 
+* Accent colors derive from the brand color pallete. We use them sparingly, such as for the journal identity or infographics.
 * Background colors are used for supporting material, such as article cards and illustrations. 
-* UI colors are our primary pallete when designing interactive elements, and are compliant with Web Content Accessibility Guidelines AA standard contrast ratios. We’ve also developed a wider range of neutral greys, necessary for the hierarchy and density of information in our use cases. 
+* UI colors are the primary pallete for designing interactive elements, and are compliant with Web Content Accessibility Guidelines AA standard contrast ratios. We’ve also developed a wider range of neutral greys, necessary for the hierarchy and density of information in our use cases. 
 
 ---
 
