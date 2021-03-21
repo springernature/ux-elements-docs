@@ -315,20 +315,6 @@ Our color system creates a user-friendly interface for researchers, while also c
 			Used for error messages
 		</td>
 	</tr>	
-	<tr>
-		<td>
-			persian-green  
-		</td>
-		<td>
-			$context--success-color
-		</td>
-		<td style="background-color: #00a69d; color: #ffffff">
-			#00a69d
-		</td>
-		<td>
-			Used for success messages
-		</td>
-	</tr>
 	<tr>	
 		<td>
 			green  
