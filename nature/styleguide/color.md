@@ -1,5 +1,10 @@
 # Color
 
+Our color system is organised into 3 groups; accent, background and user interface.
+
+**Accent** colors derive from the brand color pallete. We use them sparingly, such as for the journal identity or infographics and marketing. **Background** colors are used for supporting material, such as article cards and illustrations. **UI colors** are our primary pallete when designing interactive elements, and are compliant with Web Content Accessibility Guidelines AA standard contrast ratios. We’ve also developed a wider range of neutral greys, necessary for the hierarchy and density of information in our use cases. 
+
+---
 
 ## Accent colors
 
@@ -62,6 +67,7 @@
 	</tr>		
 </table>	
 
+---
 
 ## Background colors
 
@@ -148,6 +154,7 @@
 	</td>
 </table>
 
+---
 
 ## Global UI colors
 
@@ -199,13 +206,27 @@
 			link  
 		</td>
 		<td>
-			N/A 
+			$context--link-color 
 		</td>
 		<td style="background-color: #006699; color: #ffffff">
 			#006699
 		</td>
 		<td>
-			link color
+			Color for text links
+		</td>
+	</tr>		
+		<tr>
+		<td>
+			hover  
+		</td>
+		<td>
+			$context--link-hover-color 
+		</td>
+		<td style="background-color: #006699; color: #ffffff">
+			#006699
+		</td>
+		<td>
+			Hove state for text links
 		</td>
 	</tr>		
 </table>	
