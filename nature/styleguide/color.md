@@ -217,7 +217,7 @@ Our color system creates a user-friendly interface for researchers, while also c
 			Color for text links
 		</td>
 	</tr>		
-		<tr>
+	<tr>
 		<td>
 			blue  
 		</td>
@@ -231,8 +231,7 @@ Our color system creates a user-friendly interface for researchers, while also c
 			Hover state for text links
 		</td>
 	</tr>
-	</tr>		
-		<tr>
+	<tr>		
 		<td>
 			purple  
 		</td>
@@ -246,8 +245,7 @@ Our color system creates a user-friendly interface for researchers, while also c
 			Visited state for text links
 		</td>
 	</tr>
-	</tr>		
-		<tr>
+	<tr>		
 		<td>
 			grey-mid1  
 		</td>
@@ -261,5 +259,90 @@ Our color system creates a user-friendly interface for researchers, while also c
 			Color for borders and dividers
 		</td>
 	</tr>
+	<tr>		
+		<td>
+			grey-mid2  
+		</td>
+		<td>
+			$context--border-input-color
+		</td>
+		<td style="background-color: #999999">
+			#999999
+		</td>
+		<td>
+			Color for input borders
+		</td>
+	</tr>
+	<tr>		
+		<td>
+			grey-dark1  
+		</td>
+		<td>
+			$context--footer-color
+		</td>
+		<td style="background-color: #555555; color: #ffffff">
+			#555555
+		</td>
+		<td>
+			Color for footer
+		</td>
+	</tr>
+	<tr>		
+		<td>
+			yellow  
+		</td>
+		<td>
+			$context--focus-color
+		</td>
+		<td style="background-color: #ffcc00; color: #ffffff">
+			#ffcc00
+		</td>
+		<td>
+			Colour to indicate which element is focused on when using a keyboard.
+		</td>
+	</tr>
+	<tr>		
+		<td>
+			red  
+		</td>
+		<td>
+			$context--error-color
+		</td>
+		<td style="background-color: #c40606; color: #ffffff">
+			#c40606
+		</td>
+		<td>
+			Used for error messages
+		</td>
+	</tr>	
+	<tr>
+		<td>
+			persian-green  
+		</td>
+		<td>
+			$context--success-color
+		</td>
+		<td style="background-color: #00a69d; color: #ffffff">
+			#00a69d
+		</td>
+		<td>
+			Used for success messages
+		</td>
+	</tr>
+	<tr>	
+		<td>
+			persian-green  
+		</td>
+		<td>
+			$context--success-color
+		</td>
+		<td style="background-color: #00a69d; color: #ffffff">
+			#00a69d
+		</td>
+		<td>
+			Used for success messages
+		</td>
+	</tr>
 </table>	
+
 
