@@ -331,7 +331,7 @@ Our color system creates a user-friendly interface for researchers, while also c
 	</tr>
 	<tr>	
 		<td>
-			persian-green  
+			green  
 		</td>
 		<td>
 			$context--success-color
@@ -341,6 +341,35 @@ Our color system creates a user-friendly interface for researchers, while also c
 		</td>
 		<td>
 			Used for success messages
+		</td>
+	</tr>
+		<tr>	
+		<td>
+			orange  
+		</td>
+		<td>
+			$context--warning-color
+		</td>
+		<td style="background-color: #f58220; color: #ffffff">
+			#f58220
+		</td>
+		<td>
+			Used for warning messages
+		</td>
+	</tr>
+	</tr>
+		<tr>	
+		<td>
+			blue-dark  
+		</td>
+		<td>
+			$context--information-color
+		</td>
+		<td style="background-color: #003f8d; color: #ffffff">
+			#003f8d
+		</td>
+		<td>
+			Used for information messages
 		</td>
 	</tr>
 </table>	
