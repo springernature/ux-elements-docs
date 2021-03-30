@@ -23,8 +23,9 @@ We use system fonts or “native typography” for elements that are interactive
 Using system fonts ensure our websites can perform well on slow connection speeds, creating a more frictionless experience. Fonts native to the users’ OS, such as Apple’s SF Pro and Microsoft’s Segoe UI are also well optimised for legibility.
 
 
-## Headings
+## Usage
 
+### Headings
 Use our font styles consistently by always making sure they reflect the information hierarchy on the page. If the hierarchy is clear, we ensure that our content is easily scannable for our audiences. Combining these font sizes and styles together with layouts designed for optimal reading experiences will foster familiarity for our users.
 
 * In hero cards and headings, harding works best when character spacing and line height are tight
