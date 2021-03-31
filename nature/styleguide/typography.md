@@ -1,8 +1,11 @@
 # Typography
 
+ <br />
+ 
 ## Font Families
 
-
+ <br />
+ 
 ### Harding
 We use our custom typeface, Harding as our primary font for headings and the main body text. Named after the late neurologist Anita Harding, it was designed specifically for science, with a large range of special characters for different subjects.
 
@@ -18,6 +21,7 @@ We use system fonts or “native typography” for elements that are interactive
 
 Using system fonts ensure our websites can perform well on slow connection speeds, creating a more frictionless experience. Fonts native to the users’ OS, such as Apple’s SF Pro and Microsoft’s Segoe UI are also well optimised for legibility.
 
+ <br />
 
 ## Usage
 
