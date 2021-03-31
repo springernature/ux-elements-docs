@@ -53,25 +53,22 @@ Use our font styles consistently by always making sure they reflect the informat
                        heading 1
                 </td>
                 <td>
-                       <p>
-                          font-size:
-                       </p>
-                          font-weight:
-                       <p>
-                          font-family:
-                       </p>
-                       <p>
-                          letter-spacing:
-                       </p>
-                       <p>
-                          line-height:
-                       </p>
+                       font-size: <br />
+                       font-weight: <br />
+                       font-family: <br />
+                       letter-spacing: <br />
+                       line-height: <br />
+                </td>
+                <td>
+                       32px <br />
+                       bold <br />
+                       harding <br />
+                       - <br />
+                       - <br /
                 </td>
                 <td>
                        --
                 </td>
-                <td>
-                       Accent color for illustrations and services
-                </td>
         </tr>	
 </table>	
+
