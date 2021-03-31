@@ -10,7 +10,7 @@ We use illustrations as a communication tool to provide greater clarity of compl
 ## Examples of illustrations
 <figure>
 <picture>
-<source type="image/svg" srcset="/images/step-3-III.svg">
-<img src="/images/step-3-III.svg" alt=""/>	
+<source type="image/svg" srcset="/images/nature portfolio/step-3-III.svg">
+<img src="/images/nature portfolio/step-3-III.svg" alt=""/>	
 </picture>
 </figure>
