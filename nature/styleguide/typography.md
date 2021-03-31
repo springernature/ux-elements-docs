@@ -25,13 +25,14 @@ Using system fonts ensure our websites can perform well on slow connection speed
 
 ## Usage
 
-### Headings
 Use our font styles consistently by always making sure they reflect the information hierarchy on the page. If the hierarchy is clear, we ensure that our content is easily scannable for our audiences. Combining these font sizes and styles together with layouts designed for optimal reading experiences will foster familiarity for our users.
 
 * In hero cards and headings, harding works best when character spacing and line height are tight
 * Longer article text should use line height to maximise legibility
 * Body text and paragraphs at base sizes should not exceed 800px in width
+* We use fluid typography by applying properties for different screen sizes, "Max" and "Min" 
 
+### Headings (Nature journals)
 
 <table>
         <tr>
