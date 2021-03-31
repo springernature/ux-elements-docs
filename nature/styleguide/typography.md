@@ -53,11 +53,18 @@ Use our font styles consistently by always making sure they reflect the informat
                        heading 1
                 </td>
                 <td>
-                       font-size: 
-                       font-weight:
-                       font-family:
-                       letter-spacing: 
-                       line-height: 
+                       <p>
+                          font-size: 
+                       </p>
+                          font-weight:
+                       <p>
+                          font-family:
+                       </p>
+                       <p>
+                          letter-spacing:
+                       <p>
+                          line-height:
+                       </p>
                 </td>
                 <td>
                        font-size-h1
