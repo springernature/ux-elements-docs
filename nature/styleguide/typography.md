@@ -33,7 +33,41 @@ Use our font styles consistently by always making sure they reflect the informat
 * Body text and paragraphs at base sizes should not exceed 800px in width
 
 
-Do | Don't
------- | ------
-To reply quickly    | To quickly reply  
-To assess adequately   | To adequately asses  
+<table>
+        <tr>
+                <th>
+                       Heading style 
+                </th>
+                <th>
+                       Properties 
+                </th>	
+                <th>
+                       Max 
+                </th>
+                <th>
+                       Min
+                </th>
+        </tr>
+        <tr>
+                <td>
+                       heading 1
+                </td>
+                <td>
+                       font-size: 
+                       font-weight:
+                       font-family:
+                       letter-spacing: 
+                       line-height: 
+                </td>
+                <td>
+                       font-size-h1
+                       light
+                       family-serif;
+                       0.32px
+                       42px
+                </td>
+                <td>
+                       Accent color for illustrations and services
+                </td>
+        </tr>	
+</table>	
