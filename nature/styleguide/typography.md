@@ -54,7 +54,7 @@ Use our font styles consistently by always making sure they reflect the informat
                 </td>
                 <td>
                        <p>
-                          font-size: 
+                          font-size:
                        </p>
                           font-weight:
                        <p>
@@ -62,16 +62,13 @@ Use our font styles consistently by always making sure they reflect the informat
                        </p>
                        <p>
                           letter-spacing:
+                       </p>
                        <p>
                           line-height:
                        </p>
                 </td>
                 <td>
-                       font-size-h1
-                       light
-                       family-serif;
-                       0.32px
-                       42px
+                       --
                 </td>
                 <td>
                        Accent color for illustrations and services
