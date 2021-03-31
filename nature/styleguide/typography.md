@@ -64,8 +64,8 @@ Use our font styles consistently by always making sure they reflect the informat
                        32px <br />
                        bold <br />
                        harding <br />
-                       - <br />
-                       - <br /
+                       -0.0625 <br />
+                       36px <br />
                 </td>
                 <td>
                        --
