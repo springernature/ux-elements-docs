@@ -1,10 +1,16 @@
-## Nothing to see here yet
+# Illustrations
 
-We will be updating this page with information soon.
+We use illustrations as a communication tool to provide greater clarity of complex information that our authors need to know when preparing for submission, helping guide their expectations of our services in a more accessible tone.
 
+## When to use illustrations on our products
+* Helping authors make decisions on where to publish
+* Highlight key benefits of publshing in the Nature Portfolio
+* Explaining our publishing and editorial processes
+
+## Examples of illustrations
 <figure>
 <picture>
-<source type="image/svg" srcset="/images/illustration-empty.svg">
-<img src="/images/illustration-empty.svg" alt=""/>	
+<source type="image/svg" srcset="/images/step-3-III.svg">
+<img src="/images/step-3-III.svg" alt=""/>	
 </picture>
 </figure>
