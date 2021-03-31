@@ -7,7 +7,21 @@ We use illustrations as a communication tool to provide greater clarity of compl
 * Highlight key benefits and services of the Nature Portfolio
 * Explaining our publishing and editorial processes
 
-## Examples of illustrations
+## Illustrations in use
+<figure>
+<picture>
+<source type="image/svg" srcset="/images/nature portfolio/step-1.svg">
+<img src="/images/nature portfolio/step-1.svg" alt=""/>	
+</picture>
+</figure>
+
+<figure>
+<picture>
+<source type="image/svg" srcset="/images/nature portfolio/step-2.svg">
+<img src="/images/nature portfolio/step-2.svg" alt=""/>	
+</picture>
+</figure>
+
 <figure>
 <picture>
 <source type="image/svg" srcset="/images/nature portfolio/step-3-III.svg">
