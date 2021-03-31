@@ -10,12 +10,8 @@ A key consideration in Harding’s overall design is performance on small digita
 
 Harding creates an overall impression of calm, rational intelligence with perhaps a dash of British formality and wit.
 
-<figure>
-<picture>
-<source type="image/jpg" srcset="/images/nature portfolio/typography-harding.jpg">
-<img src="/images/nature portfolio/typography-harding.jpg" alt=""/>	
-</picture>
-</figure>
+### Graphik
+For services that sit under the Nature Portfolio such as Nano, we use Graphik as the primary font. Graphik is a clean and modern sans serif typeface that has a large family of varying weights.
 
 ### System fonts
 We use system fonts or “native typography” for elements that are interactive, such as buttons, forms and navigation links. We also use it for secondary information such as meta data, author names, publication dates and article summaries.
