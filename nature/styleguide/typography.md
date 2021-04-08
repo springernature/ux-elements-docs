@@ -100,6 +100,32 @@ Use our font styles consistently by always making sure they reflect the informat
                        -0.01875 <br />
                        22px <br />
                 </td>
+        </tr>
+        <tr>
+                <td>
+                       heading 3
+                </td>
+                <td>
+                       font-size: <br />
+                       font-weight: <br />
+                       font-family: <br />
+                       letter-spacing: <br />
+                       line-height: <br />
+                </td>
+                <td>
+                       20px <br />
+                       bold <br />
+                       harding <br />
+                       -0.01875 <br />
+                       22px <br />
+                </td>
+                <td>
+                       20px <br />
+                       bold <br />
+                       harding <br />
+                       -0.01875 <br />
+                       22px <br />
+                </td>
         </tr>	
 </table>	
 
