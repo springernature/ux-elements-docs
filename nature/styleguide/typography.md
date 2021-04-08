@@ -68,7 +68,11 @@ Use our font styles consistently by always making sure they reflect the informat
                        36px <br />
                 </td>
                 <td>
-                       --
+                       24px <br />
+                       bold <br />
+                       harding <br />
+                       -0.01875 <br />
+                       26px <br />
                 </td>
         </tr>	
 </table>	
