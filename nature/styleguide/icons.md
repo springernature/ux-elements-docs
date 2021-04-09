@@ -1,4 +1,4 @@
-#Icons
+# Icons
 
 Icons should symbolise a single meaning or direction and shouldn’t be ornamental. They are designed to be simple, friendly and readable at small sizes. Use them to support key actions and signposting.
 
