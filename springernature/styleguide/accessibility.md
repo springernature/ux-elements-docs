@@ -15,7 +15,7 @@ To make sure products are accessible to everyone, follow the  [four principles o
 
  <br />
 
-## Use alt text for images
+## Use alternative (alt) text on images
 We use alt text to describe the appearance and function of an image on a page. It’s a textual alternative to non-text content.
 
 ### What’s it for?
