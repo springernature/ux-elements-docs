@@ -3,7 +3,7 @@
  <br />
  
 ## What is accessibility?
-Accessibility is the practice of designing products and services to be usable by all people. This includes people with vision, hearing, cognitive or motor impairments. Designing for accessibility also creates positive benefits for all users. For example, high contrast, readable text makes it easier to read on a phone in bright sunlight.
+Accessibility is the practice of designing products and services to be usable by all people. This includes people with vision, hearing, cognitive or motor impairments. Designing for accessibility also creates added benefits for all users. For example, high contrast, readable text makes it easier to read on a phone in bright sunlight.
 
 Ensuring our websites are accessible is the responsibility of everyone at Springer Nature. It is also required by law in many countries where we do business. As a research publisher, we have a duty to make human knowledge accessible for people with all abilities.
 
