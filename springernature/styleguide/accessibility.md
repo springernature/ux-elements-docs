@@ -3,7 +3,7 @@
  <br />
  
 ## What is accessibility?
-Accessibility is the practice of designing products and services to be usable by people with disabilities. These can include those with vision, hearing, cognitive or motor impairments. Designing for accessibility also creates positive benefits for all users. For example, high contrast, readable text makes it easier to read on a phone in bright sunlight.
+Accessibility is the practice of designing products and services to be usable by all people. This includes people with vision, hearing, cognitive or motor impairments. Designing for accessibility also creates positive benefits for all users. For example, high contrast, readable text makes it easier to read on a phone in bright sunlight.
 
 Ensuring our websites are accessible is the responsibility of everyone at Springer Nature. It is also required by law in many countries where we do business. As a research publisher, we have a duty to make human knowledge accessible for people with all abilities.
 
@@ -35,3 +35,7 @@ There isn’t a hard and fast rule. The alt text for a particular image may chan
 * Copyright info, image source, or other extra information should go in the caption, not the alt text.
 * Context is important e.g. it may be appropriate to note if an image is a photo or an artwork, whether a person is old or young, if the sky is stormy or clear, if that is relevant to the content. 
 * Think about how you would describe the image to a person who can’t see it.
+
+ <br />
+
+# Color
