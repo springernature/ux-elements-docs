@@ -54,7 +54,7 @@ Our product palette is a reduced selection of Springer Nature brand colours, enh
 		<td>
 			$context--link-color 
 		</td>
-		<td style="background-color: #006699; color: #ffffff">
+		<td style="background-color: #007E99; color: #ffffff">
 			#007E99
 		</td>
 		<td>
@@ -68,7 +68,7 @@ Our product palette is a reduced selection of Springer Nature brand colours, enh
 		<td>
 			$context--link-hover-color 
 		</td>
-		<td style="background-color: #0077B3; color: #ffffff">
+		<td style="background-color: #007E99; color: #ffffff">
 			#007E99
 		</td>
 		<td>
