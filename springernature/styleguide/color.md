@@ -2,224 +2,208 @@
 
 Our product palette is a reduced selection of Springer Nature brand colours, enhanced for AAA accessibility. We’ve also developed a wider range of neutral greys, necessary for the hierarchy and density of information in our use cases. 
 
-
-## Link colors
-
-<table>
-	<tr>
-		<th>
-			Name
-		</th>
-		<th>
-			Variable
-		</th>	
-		<th>
-			Value
-		</th>
-		<th>
-			Used for
-		</th>
-	</tr>
-	<tr>
-		<td>
-			Link 
-		</td>
-		<td>
-			$color-link-1
-		</td>
-		<td style="background-color: #007E99; color: #ffffff">
-			#007E99
-		</td>
-		<td>
-			Anchor link in normal state
-		</td>
-	</tr>	
-	<tr>
-		<td>
-			Link:hover
-		</td>
-		<td>
-			$color-link-1
-		</td>
-		<td style="background-color: #007E99; color: #ffffff">
-			#007E99
-		</td>
-		<td>
-			Anchor link in hover state
-		</td>
-	</tr>	
-	<tr>
-		<td>
-			Link:visited
-		</td>
-		<td>
-			$color-link-1
-		</td>
-		<td style="background-color: #007E99; color: #ffffff">
-			#007E99
-		</td>
-		<td>
-			Anchor link in visited state
-		</td>
-	</tr>		
-</table>	
-
-
-## Error / Success colors
+## Global UI colors
 
 <table>
 	<tr>
 		<th>
-			Name
+			Name 
 		</th>
 		<th>
-			Variable
+			Variable 
 		</th>	
 		<th>
-			Value
+			Value 
 		</th>
 		<th>
-			Used for
+			Used for 
 		</th>
 	</tr>
 	<tr>
 		<td>
-			Error  
+			black  
 		</td>
 		<td>
-			$color-error-1
-		</td>
-		<td style="background-color: #C64040; color: #ffffff">
-			#c64040
-		</td>
-		<td>
-			Error messages
-		</td>
-	</tr>	
-</table>	
-
-
-
-## Neutral colors
-	
-<table>
-	<tr>
-		<th>
-			Name
-		</th>
-		<th>
-			Variable
-		</th>	
-		<th>
-			Value
-		</th>
-		<th>
-			Used for
-		</th>
-	</tr>
-	<tr>
-		<td>
-			Charcoal 1
-		</td>
-		<td>
-			$color-charchoal-1
+			$context--text-color 
 		</td>
 		<td style="background-color: #222222; color: #ffffff">
 			#222222
 		</td>
 		<td>
-			Footer fill
+			Main color for text
 		</td>
 	</tr>	
 	<tr>
 		<td>
-			Charcoal 2
+			grey-dark2  
 		</td>
 		<td>
-			$color-charchoal-2
-		</td>
-		<td style="background-color: #555555; color: #ffffff">
-			#555555
-		</td>
-		<td>
-			Footer fill
-		</td>
-	</tr>
-	<tr>
-		<td>
-			Charcoal 3
-		</td>
-		<td>
-			$color-charchoal-3
+			$context--text-secondary-color  
 		</td>
 		<td style="background-color: #666666; color: #ffffff">
 			#666666
 		</td>
 		<td>
-			Light type styles
-		</td>
-	</tr>
-	<tr>
-		<td>
-			Charcoal 4
-		</td>
-		<td>
-			$color-charchoal-4
-		</td>
-		<td style="background-color: #dddddd">
-			#dddddd
-		</td>
-		<td>
-			Keylines
-		</td>
-	</tr>
-	<tr>
-		<td>
-			Charcoal 5
-		</td>
-		<td>
-			$color-charchoal-5
-		</td>
-		<td style="background-color: #e8e8e8">
-			#e8e8e8
-		</td>
-		<td>
-			Panel fill
-			<br/>
-			Panel Editor fill
+			Secondary color for text
 		</td>
 	</tr>	
 	<tr>
 		<td>
-			Charcoal 6
+			blue  
 		</td>
 		<td>
-			$color-charchoal-6
+			$context--link-color 
 		</td>
-		<td style="background-color: #f3f3f3">
-			#f3f3f3
+		<td style="background-color: #006699; color: #ffffff">
+			#007E99
 		</td>
 		<td>
-			Facet panel fill 
-			<br/>
-			Drop down buttons
+			Color for text links
 		</td>
-	</tr>
+	</tr>		
 	<tr>
 		<td>
-			Charcoal 7
+			blue  
 		</td>
 		<td>
-			$color-charchoal-7
+			$context--link-hover-color 
 		</td>
-		<td style="background-color: #f8f8f8">
-			#f8f8f8
+		<td style="background-color: #0077B3; color: #ffffff">
+			#007E99
 		</td>
 		<td>
-			Page background
+			Hover state for text links
 		</td>
-	</tr>					
+	</tr>
+	<tr>		
+		<td>
+			purple  
+		</td>
+		<td>
+			$context--link-visited-color 
+		</td>
+		<td style="background-color: #a345c9; color: #ffffff">
+			#a345c9
+		</td>
+		<td>
+			Visited state for text links
+		</td>
+	</tr>
+	<tr>		
+		<td>
+			grey-mid1  
+		</td>
+		<td>
+			$context--border-color
+		</td>
+		<td style="background-color: #dadada">
+			#dadada
+		</td>
+		<td>
+			Color for borders and dividers
+		</td>
+	</tr>
+	<tr>		
+		<td>
+			grey-mid2  
+		</td>
+		<td>
+			$context--border-input-color
+		</td>
+		<td style="background-color: #999999">
+			#999999
+		</td>
+		<td>
+			Color for input borders
+		</td>
+	</tr>
+	<tr>		
+		<td>
+			grey-dark1  
+		</td>
+		<td>
+			$context--footer-color
+		</td>
+		<td style="background-color: #555555; color: #ffffff">
+			#555555
+		</td>
+		<td>
+			Color for footer
+		</td>
+	</tr>
+	<tr>		
+		<td>
+			yellow  
+		</td>
+		<td>
+			$context--focus-color
+		</td>
+		<td style="background-color: #ffcc00; color: #ffffff">
+			#ffcc00
+		</td>
+		<td>
+			Colour to indicate which element is focused on when using a keyboard.
+		</td>
+	</tr>
+	<tr>		
+		<td>
+			red  
+		</td>
+		<td>
+			$context--error-color
+		</td>
+		<td style="background-color: #c40606; color: #ffffff">
+			#c40606
+		</td>
+		<td>
+			Used for error messages
+		</td>
+	</tr>	
+	<tr>	
+		<td>
+			green  
+		</td>
+		<td>
+			$context--success-color
+		</td>
+		<td style="background-color: #00a69d; color: #ffffff">
+			#00a69d
+		</td>
+		<td>
+			Used for success messages
+		</td>
+	</tr>
+		<tr>	
+		<td>
+			orange  
+		</td>
+		<td>
+			$context--warning-color
+		</td>
+		<td style="background-color: #f58220; color: #ffffff">
+			#f58220
+		</td>
+		<td>
+			Used for warning messages
+		</td>
+	</tr>
+	</tr>
+		<tr>	
+		<td>
+			blue-dark  
+		</td>
+		<td>
+			$context--information-color
+		</td>
+		<td style="background-color: #003f8d; color: #ffffff">
+			#003f8d
+		</td>
+		<td>
+			Used for information messages
+		</td>
+	</tr>
 </table>	
+
 
 
 ## Product accent colours
