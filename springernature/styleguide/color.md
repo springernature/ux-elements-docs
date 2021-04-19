@@ -293,7 +293,7 @@ Our product palette is a reduced selection of Springer Nature brand colours, enh
 			#9d7eb8
 		</td>
 		<td>
-			N/A
+			Researher Portal
 		</td>
 	</tr>		
 </table>	
