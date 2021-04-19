@@ -17,3 +17,100 @@ A single font is not enough to help users distinguish between elements such as h
 Following experimentation, we’ve identified Merriweather as a serif font for our product needs. We conducted an online survey (1357 participants, details available upon request) to evaluate Merriweather in comparison to Daytona, which showed us that Merriweather performs equally well as Daytona in terms of brand perception, ensuring it is an appropriate addition to the Springer Nature brand.
 
 Serif fonts are typically associated with tradition, heritage, authority. Our research has shown that serif fonts are particularly suited for academic content, as they help convey trust, reliability, credibility and can aid readability & accessibility. For this reason, we decided to make Merriweather our primary product font, paired with Daytona as our secondary, supporting font. 
+
+### Headings (Nature journals)
+
+<table>
+        <tr>
+                <th>
+                       Heading style 
+                </th>
+                <th>
+                       Properties 
+                </th>	
+                <th>
+                       Max 
+                </th>
+                <th>
+                       Min
+                </th>
+        </tr>
+        <tr>
+                <td>
+                       heading 1
+                </td>
+                <td>
+                       font-size: <br />
+                       font-weight: <br />
+                       font-family: <br />
+                       letter-spacing: <br />
+                       line-height: <br />
+                </td>
+                <td>
+                       35px <br />
+                       light <br />
+                       merriweather <br />
+                       -0.0625rem <br />
+                       42px <br />
+                </td>
+                <td>
+                       24px <br />
+                       regular <br />
+                       merriweather <br />
+                       -0.01875rem <br />
+                       28px <br />
+                </td>
+        </tr>	
+        <tr>
+                <td>
+                       heading 2
+                </td>
+                <td>
+                       font-size: <br />
+                       font-weight: <br />
+                       font-family: <br />
+                       letter-spacing: <br />
+                       line-height: <br />
+                </td>
+                <td>
+                       24px <br />
+                       regular <br />
+                       merriweather <br />
+                       -0.01875rem <br />
+                       28px <br />
+                </td>
+                <td>
+                       20px <br />
+                       bold <br />
+                       merriweather <br />
+                       -0.01875 <br />
+                       24px <br />
+                </td>
+        </tr>
+        <tr>
+                <td>
+                       heading 3
+                </td>
+                <td>
+                       font-size: <br />
+                       font-weight: <br />
+                       font-family: <br />
+                       letter-spacing: <br />
+                       line-height: <br />
+                </td>
+                <td>
+                       20px <br />
+                       bold <br />
+                       merriweather <br />
+                       -0.01875 <br />
+                       24px <br />
+                </td>
+                <td>
+                       20px <br />
+                       bold <br />
+                       merriweather <br />
+                       -0.01875 <br />
+                       24px <br />
+                </td>
+        </tr>	
+</table>	
