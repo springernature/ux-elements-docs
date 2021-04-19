@@ -39,3 +39,9 @@ There isn’t a hard and fast rule. The alt text for a particular image may chan
  <br />
 
 # Color
+
+## Use High-Contrast Colors
+Users can find it difficult to read light text on a light background, or dark text on a dark background. To improve accessibility, it’s recommended that you pick text and background colors with sufficient color contrast. We are committed to complying with the Web Content Accessibility Guidelines AA standard contrast ratios.
+
+## Don’t Rely Entirely on Color
+Over 5% of the people in the world have some form of colorblindness. It’s rare for someone to see only in black and white, but for the sake of understanding, imagine if your website was suddenly in grayscale. We can modify this by using icons and text labels.
