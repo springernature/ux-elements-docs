@@ -141,7 +141,7 @@ We've developed a wider range of neutral greys for the hierarchy and density of 
 		<td>
 			$context--page-background-color  
 		</td>
-		<td style="background-color: #f8f8f8; color: #ffffff">
+		<td style="background-color: #f8f8f8; color: #222222">
 			#f8f8f8
 		</td>
 		<td>
@@ -155,7 +155,7 @@ We've developed a wider range of neutral greys for the hierarchy and density of 
 		<td>
 			$context--facet-background-color
 		</td>
-		<td style="background-color: #f8f8f8; color: #ffffff">
+		<td style="background-color: #f8f8f8; color: #222222">
 			#F3F3F3
 		</td>
 		<td>
@@ -164,7 +164,7 @@ We've developed a wider range of neutral greys for the hierarchy and density of 
 	</tr>
 	<tr>		
 		<td>
-			Grey Light 1  
+			Grey Mid 1  
 		</td>
 		<td>
 			$context--border-color
