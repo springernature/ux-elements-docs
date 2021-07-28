@@ -1,16 +1,6 @@
 # Springer Nature color palette
 
-Color plays an essential role in our visual identity, whether it’s animations, social content, data visualisations or user interfaces. Our color palette has been designed to ensure that communications are legible for the entire visual spectrum. 
-
-People with low vision or color blindness can find it difficult to read light text on a light background, or dark text on a dark background. To improve accessibility, it’s recommended that you pick text and background colors with sufficient color contrast. Springer Nature is committed to conforming to the WCAG AA standards contrast ratios. Text and images of text must have a contrast ratio of at least 4.5:1
-
-
-Our product palette is a reduced selection of Springer Nature brand colors, enhanced for AA accessibility. We’ve also developed a wider range of neutral greys, necessary for the hierarchy and density of information in our use cases. 
-
-We use them sparingly, such as for the journal identity or infographics.
-
-Background colors are used for supporting material, such as article cards and illustrations.
-UI colors are the primary pallete for designing interactive elements, and are compliant with Web Content Accessibility Guidelines AA standard contrast ratios. We’ve also developed a wider range of neutral greys for the hierarchy and density of information in our use cases.
+Color plays an essential role in our visual identity, whether it’s animations, social content, data visualisations or user interfaces. Our color palette has been designed to ensure that communications are legible for the entire visual spectrum. Springer Nature is committed to conforming to the WCAG AA standards contrast ratios. Follow our [guidance on accessibility - URL](https://docs.google.com/document/d/10XVU0kioJB1b3l2OkKXDF7AX2DqCzbq1tMNdN2RLyco/edit) to ensure sufficent color contrast for text and backgrounds.
 
 ## Corporate colours
 
@@ -137,7 +127,105 @@ These colours can be used as accent colours to provide additional vitality to gr
 	</tr>		
 </table>	
 
-## Global UI colors
+## Grayscale colors
+
+We've developed a wider range of neutral greys for the hierarchy and density of information in our use cases. For example, forms, tables and filter options.
+
+<table>
+	<tr>
+		<th>
+			Name 
+		</th>
+		<th>
+			Variable 
+		</th>	
+		<th>
+			Value 
+		</th>
+		<th>
+			Used for 
+		</th>
+	</tr>
+	<tr>
+		<td>
+			Grey Light 1  
+		</td>
+		<td>
+			$context--page-background-color  
+		</td>
+		<td style="background-color: #f8f8f8; color: #ffffff">
+			#f8f8f8
+		</td>
+		<td>
+			Background for main pages
+		</td>
+	</tr>
+	<tr>
+		<td>
+			Grey Light 2  
+		</td>
+		<td>
+			$context--facet-background-color
+		</td>
+		<td style="background-color: #f8f8f8; color: #ffffff">
+			#F3F3F3
+		</td>
+		<td>
+			Background for facets e.g. filter options
+		</td>
+	</tr>
+	<tr>		
+		<td>
+			Grey Light 1  
+		</td>
+		<td>
+			$context--border-color
+		</td>
+		<td style="background-color: #dadada">
+			#dadada
+		</td>
+		<td>
+			Color for borders and dividers
+		</td>
+	</tr>
+	<tr>		
+		<td>
+			Grey Mid 2  
+		</td>
+		<td>
+			$context--border-input-color
+		</td>
+		<td style="background-color: #999999">
+			#999999
+		</td>
+		<td>
+			Color for input borders
+		</td>
+	</tr>
+	<tr>
+		<td>
+			Grey Dark 1  
+		</td>
+		<td>
+			$context--text-secondary-color  
+		</td>
+		<td style="background-color: #666666; color: #ffffff">
+			#666666
+		</td>
+		<td>
+			Secondary color for text
+		</td>
+	</tr>	
+</table>	
+
+
+
+
+
+
+## Grayscale colors
+
+We've developed a wider range of neutral greys for the hierarchy and density of information in our use cases. For example, forms, tables and filter options.
 
 <table>
 	<tr>
@@ -337,6 +425,4 @@ These colours can be used as accent colours to provide additional vitality to gr
 		</td>
 	</tr>
 </table>	
-
-
 
