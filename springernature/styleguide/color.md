@@ -1,6 +1,6 @@
 # Springer Nature color palette
 
-Color plays an essential role in our visual identity, whether it’s animations, social content, data visualisations or user interfaces. Our color palette has been designed to ensure that communications are legible for the entire visual spectrum. Springer Nature is committed to conforming to the WCAG AA standards contrast ratios. Follow our [guidance on accessibility - URL](https://docs.google.com/document/d/10XVU0kioJB1b3l2OkKXDF7AX2DqCzbq1tMNdN2RLyco/edit) to ensure sufficent color contrast for text and backgrounds.
+Color plays an essential role in our visual identity, whether it’s animations, social content, data visualisations or user interfaces. Our color palette has been designed to ensure that communications are legible for the entire visual spectrum. Springer Nature is committed to conforming to the WCAG AA standards contrast ratios. Follow our [guidance on accessibility](https://docs.google.com/document/d/10XVU0kioJB1b3l2OkKXDF7AX2DqCzbq1tMNdN2RLyco/edit) to ensure sufficent color contrast for text and backgrounds.
 
 ## Corporate colours
 
@@ -223,9 +223,9 @@ We've developed a wider range of neutral greys for the hierarchy and density of 
 
 
 
-## Grayscale colors
+## Text and link colors
 
-We've developed a wider range of neutral greys for the hierarchy and density of information in our use cases. For example, forms, tables and filter options.
+Our main link color - Medium Blue is based on Universal Blue.
 
 <table>
 	<tr>
@@ -244,7 +244,35 @@ We've developed a wider range of neutral greys for the hierarchy and density of 
 	</tr>
 	<tr>
 		<td>
-			black  
+			White  
+		</td>
+		<td>
+			$context--text-color 
+		</td>
+		<td style="background-color: #ffffff; color: #222222">
+			#ffffff
+		</td>
+		<td>
+			Color for text on dark backgrounds
+		</td>
+	</tr>
+	<tr>		
+		<td>
+			Grey Dark 1  
+		</td>
+		<td>
+			$context--footer-color
+		</td>
+		<td style="background-color: #666666; color: #ffffff">
+			#666666
+		</td>
+		<td>
+			Color for secondary text on light backgrounds
+		</td>
+	</tr>
+	<tr>
+		<td>
+			Black  
 		</td>
 		<td>
 			$context--text-color 
@@ -253,107 +281,44 @@ We've developed a wider range of neutral greys for the hierarchy and density of 
 			#222222
 		</td>
 		<td>
-			Main color for text
+			Color for primary text on light backgrounds
 		</td>
-	</tr>	
-	<tr>
+	</tr>
+	<tr>	
 		<td>
-			grey-dark2  
-		</td>
-		<td>
-			$context--text-secondary-color  
-		</td>
-		<td style="background-color: #666666; color: #ffffff">
-			#666666
-		</td>
-		<td>
-			Secondary color for text
-		</td>
-	</tr>	
-	<tr>
-		<td>
-			blue  
+			Medium Blue  
 		</td>
 		<td>
 			$context--link-color 
 		</td>
-		<td style="background-color: #007E99; color: #ffffff">
-			#007E99
+		<td style="background-color: #025E8D; color: #ffffff">
+			#025E8D
 		</td>
 		<td>
-			Color for text links
+			Default state for text links
 		</td>
 	</tr>		
 	<tr>
 		<td>
-			blue  
+			Universal Blue  
 		</td>
 		<td>
 			$context--link-hover-color 
 		</td>
-		<td style="background-color: #007E99; color: #ffffff">
-			#007E99
+		<td style="background-color: #01324B; color: #ffffff">
+			#01324B
 		</td>
 		<td>
 			Hover state for text links
 		</td>
 	</tr>
-	<tr>		
-		<td>
-			purple  
-		</td>
-		<td>
-			$context--link-visited-color 
-		</td>
-		<td style="background-color: #a345c9; color: #ffffff">
-			#a345c9
-		</td>
-		<td>
-			Visited state for text links
-		</td>
-	</tr>
-	<tr>		
-		<td>
-			grey-mid1  
-		</td>
-		<td>
-			$context--border-color
-		</td>
-		<td style="background-color: #dadada">
-			#dadada
-		</td>
-		<td>
-			Color for borders and dividers
-		</td>
-	</tr>
-	<tr>		
-		<td>
-			grey-mid2  
-		</td>
-		<td>
-			$context--border-input-color
-		</td>
-		<td style="background-color: #999999">
-			#999999
-		</td>
-		<td>
-			Color for input borders
-		</td>
-	</tr>
-	<tr>		
-		<td>
-			grey-dark1  
-		</td>
-		<td>
-			$context--footer-color
-		</td>
-		<td style="background-color: #555555; color: #ffffff">
-			#555555
-		</td>
-		<td>
-			Color for footer
-		</td>
-	</tr>
+</table>	
+
+## Alert colors
+
+Used to highlight a message status to the user
+
+<table>	
 	<tr>		
 		<td>
 			yellow  
@@ -410,19 +375,4 @@ We've developed a wider range of neutral greys for the hierarchy and density of 
 			Used for warning messages
 		</td>
 	</tr>
-	<tr>	
-		<td>
-			blue-dark  
-		</td>
-		<td>
-			$context--information-color
-		</td>
-		<td style="background-color: #003f8d; color: #ffffff">
-			#003f8d
-		</td>
-		<td>
-			Used for information messages
-		</td>
-	</tr>
 </table>	
-
