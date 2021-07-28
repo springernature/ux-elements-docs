@@ -12,9 +12,6 @@ These colours represent a mainly neutral corporate palette, and are used for com
 			Name
 		</th>
 		<th>
-			Variable
-		</th>	
-		<th>
 			Value
 		</th>
 	</tr>
@@ -22,35 +19,26 @@ These colours represent a mainly neutral corporate palette, and are used for com
 		<td>
 			Universal Blue 
 		</td>
-		<td>
-			$research-blue
-		</td>
-		<td style="background-color: #0070a8; color: #ffffff">
-			#0070a8
-		</td>
-	</tr>	
-	<tr>
-		<td>
-			Grey Blue Light 1
-		</td>
-		<td>
-			$research-purple
-		</td>
-		<td style="background-color: #785ba7; color: #ffffff">
-			#785ba7
+		<td style="background-color: #01324B; color: #ffffff">
+			#01324B
 		</td>
 	</tr>	
 	<tr>
 		<td>
 			Grey Blue Light 2
 		</td>
+		<td style="background-color: #CEDBE0; color: #ffffff">
+			#CEDBE0
+		</td>
+	</tr>	
+	<tr>
 		<td>
-			$color-research-forest
+			Grey Blue Light 1
 		</td>
-		<td style="background-color: #007373; color: #ffffff">
-			#007373
+		<td style="background-color: #EBF1F5; color: #ffffff">
+			#EBF1F5
 		</td>
-	</tr>		
+	</tr>	
 </table>	
 
 
