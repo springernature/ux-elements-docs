@@ -338,7 +338,7 @@ These colours can be used as accent colours to provide additional vitality to gr
 			Used for success messages
 		</td>
 	</tr>
-		<tr>	
+	<tr>	
 		<td>
 			orange  
 		</td>
@@ -352,8 +352,7 @@ These colours can be used as accent colours to provide additional vitality to gr
 			Used for warning messages
 		</td>
 	</tr>
-	</tr>
-		<tr>	
+	<tr>	
 		<td>
 			blue-dark  
 		</td>
