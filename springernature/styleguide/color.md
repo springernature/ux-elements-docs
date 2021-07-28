@@ -42,7 +42,7 @@ These colours represent a mainly neutral corporate palette, and are used for com
 			#0070a8
 		</td>
 		<td>
-			
+			-
 		</td>
 	</tr>	
 	<tr>
@@ -56,7 +56,7 @@ These colours represent a mainly neutral corporate palette, and are used for com
 			#785ba7
 		</td>
 		<td>
-			
+			-
 		</td>
 	</tr>	
 	<tr>
@@ -70,7 +70,7 @@ These colours represent a mainly neutral corporate palette, and are used for com
 			#007373
 		</td>
 		<td>
-			
+			-
 		</td>
 	</tr>		
 </table>	
