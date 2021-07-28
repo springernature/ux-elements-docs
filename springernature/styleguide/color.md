@@ -1,10 +1,171 @@
-# Springer Nature colour palette
+# Springer Nature color palette
 
-Our product palette is a reduced selection of Springer Nature brand colours, enhanced for AA accessibility. We’ve also developed a wider range of neutral greys, necessary for the hierarchy and density of information in our use cases. 
+Color plays an essential role in our visual identity, whether it’s animations, social content, data visualisations or user interfaces. Our color palette has been designed to ensure that communications are legible for the entire visual spectrum. 
 
-Accent colors derive from the brand color pallete. We use them sparingly, such as for the journal identity or infographics.
+People with low vision or color blindness can find it difficult to read light text on a light background, or dark text on a dark background. To improve accessibility, it’s recommended that you pick text and background colors with sufficient color contrast. Springer Nature is committed to conforming to the WCAG AA standards contrast ratios. Text and images of text must have a contrast ratio of at least 4.5:1
+
+
+Our product palette is a reduced selection of Springer Nature brand colors, enhanced for AA accessibility. We’ve also developed a wider range of neutral greys, necessary for the hierarchy and density of information in our use cases. 
+
+We use them sparingly, such as for the journal identity or infographics.
+
 Background colors are used for supporting material, such as article cards and illustrations.
 UI colors are the primary pallete for designing interactive elements, and are compliant with Web Content Accessibility Guidelines AA standard contrast ratios. We’ve also developed a wider range of neutral greys for the hierarchy and density of information in our use cases.
+
+## Corporate colours
+
+These colours represent a mainly neutral corporate palette, and are used for common "site furniture" such as backgrounds, footers and graphic elements. We use Universal blue for CTA buttons and hover states on text links.
+
+<table>
+	<tr>
+		<th>
+			Name
+		</th>
+		<th>
+			Variable
+		</th>	
+		<th>
+			Value
+		</th>
+		<th>
+			Used for
+		</th>
+	</tr>
+	<tr>
+		<td>
+			Universal Blue 
+		</td>
+		<td>
+			$research-blue
+		</td>
+		<td style="background-color: #0070a8; color: #ffffff">
+			#0070a8
+		</td>
+		<td>
+			
+		</td>
+	</tr>	
+	<tr>
+		<td>
+			Grey Blue Light 1
+		</td>
+		<td>
+			$research-purple
+		</td>
+		<td style="background-color: #785ba7; color: #ffffff">
+			#785ba7
+		</td>
+		<td>
+			
+		</td>
+	</tr>	
+	<tr>
+		<td>
+			Grey Blue Light 2
+		</td>
+		<td>
+			$color-research-forest
+		</td>
+		<td style="background-color: #007373; color: #ffffff">
+			#007373
+		</td>
+		<td>
+			
+		</td>
+	</tr>		
+</table>	
+
+
+## Accent colours
+
+These colours can be used as accent colours to provide additional vitality to graphics and backgrounds, when required. We use accent colors in data visuliations and illustrations to help draw the eye.
+
+<table>
+	<tr>
+		<th>
+			Name
+		</th>
+		<th>
+			Variable
+		</th>	
+		<th>
+			Value
+		</th>
+		<th>
+			Used for
+		</th>
+	</tr>
+	<tr>
+		<td>
+			Reseach Blue 
+		</td>
+		<td>
+			$research-blue
+		</td>
+		<td style="background-color: #0070a8; color: #ffffff">
+			#0070a8
+		</td>
+		<td>
+			
+		</td>
+	</tr>	
+	<tr>
+		<td>
+			Research Purple
+		</td>
+		<td>
+			$research-purple
+		</td>
+		<td style="background-color: #785ba7; color: #ffffff">
+			#785ba7
+		</td>
+		<td>
+			
+		</td>
+	</tr>	
+	<tr>
+		<td>
+			Research Forest
+		</td>
+		<td>
+			$color-research-forest
+		</td>
+		<td style="background-color: #007373; color: #ffffff">
+			#007373
+		</td>
+		<td>
+			
+		</td>
+	</tr>	
+	<tr>
+		<td>
+			Research Red
+		</td>
+		<td>
+			$color-research-red
+		</td>
+		<td style="background-color: #be1818; color: #ffffff">
+			#be1818
+		</td>
+		<td>
+			
+		</td>
+	</tr>	
+	<tr>
+		<td>
+			Research Orange
+		</td>
+		<td>
+			$color-research-orange
+		</td>
+		<td style="background-color: #c75301; color: #ffffff">
+			#c75301
+		</td>
+		<td>
+			
+		</td>
+	</tr>		
+</table>	
 
 ## Global UI colors
 
@@ -210,94 +371,3 @@ UI colors are the primary pallete for designing interactive elements, and are co
 
 
 
-## Product accent colours
-
-
-<table>
-	<tr>
-		<th>
-			Name
-		</th>
-		<th>
-			Variable
-		</th>	
-		<th>
-			Value
-		</th>
-		<th>
-			Used for
-		</th>
-	</tr>
-	<tr>
-		<td>
-			Orange 
-		</td>
-		<td>
-			$color-orange
-		</td>
-		<td style="background-color: #F58220; color: #ffffff">
-			#f58220
-		</td>
-		<td>
-			Admin Portal
-		</td>
-	</tr>	
-	<tr>
-		<td>
-			Bright blue
-		</td>
-		<td>
-			$color-blue
-		</td>
-		<td style="background-color: #3C9CD7; color: #ffffff">
-			#3c9d7
-		</td>
-		<td>
-			Submission
-			<br/>
-			Transfers
-		</td>
-	</tr>	
-	<tr>
-		<td>
-			Emerald
-		</td>
-		<td>
-			$color-emerald
-		</td>
-		<td style="background-color: #00B8B0; color: #ffffff">
-			#00b8b0
-		</td>
-		<td>
-			Experiments
-		</td>
-	</tr>	
-	<tr>
-		<td>
-			Lime
-		</td>
-		<td>
-			$color-lime
-		</td>
-		<td style="background-color: #B6BD04; color: #ffffff">
-			#b6bd04
-		</td>
-		<td>
-			N/A
-		</td>
-	</tr>	
-	<tr>
-		<td>
-			Lilac
-		</td>
-		<td>
-			$color-lilac
-		</td>
-		<td style="background-color: #9D7EB8; color: #ffffff">
-			#9d7eb8
-		</td>
-		<td>
-			Researher Portal
-		</td>
-	</tr>		
-</table>	
