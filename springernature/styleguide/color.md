@@ -27,9 +27,6 @@ These colours represent a mainly neutral corporate palette, and are used for com
 		<th>
 			Value
 		</th>
-		<th>
-			Used for
-		</th>
 	</tr>
 	<tr>
 		<td>
@@ -40,9 +37,6 @@ These colours represent a mainly neutral corporate palette, and are used for com
 		</td>
 		<td style="background-color: #0070a8; color: #ffffff">
 			#0070a8
-		</td>
-		<td>
-			-
 		</td>
 	</tr>	
 	<tr>
@@ -55,9 +49,6 @@ These colours represent a mainly neutral corporate palette, and are used for com
 		<td style="background-color: #785ba7; color: #ffffff">
 			#785ba7
 		</td>
-		<td>
-			-
-		</td>
 	</tr>	
 	<tr>
 		<td>
@@ -68,9 +59,6 @@ These colours represent a mainly neutral corporate palette, and are used for com
 		</td>
 		<td style="background-color: #007373; color: #ffffff">
 			#007373
-		</td>
-		<td>
-			-
 		</td>
 	</tr>		
 </table>	
@@ -91,9 +79,6 @@ These colours can be used as accent colours to provide additional vitality to gr
 		<th>
 			Value
 		</th>
-		<th>
-			Used for
-		</th>
 	</tr>
 	<tr>
 		<td>
@@ -104,9 +89,6 @@ These colours can be used as accent colours to provide additional vitality to gr
 		</td>
 		<td style="background-color: #0070a8; color: #ffffff">
 			#0070a8
-		</td>
-		<td>
-			
 		</td>
 	</tr>	
 	<tr>
@@ -119,9 +101,6 @@ These colours can be used as accent colours to provide additional vitality to gr
 		<td style="background-color: #785ba7; color: #ffffff">
 			#785ba7
 		</td>
-		<td>
-			
-		</td>
 	</tr>	
 	<tr>
 		<td>
@@ -132,9 +111,6 @@ These colours can be used as accent colours to provide additional vitality to gr
 		</td>
 		<td style="background-color: #007373; color: #ffffff">
 			#007373
-		</td>
-		<td>
-			
 		</td>
 	</tr>	
 	<tr>
@@ -147,9 +123,6 @@ These colours can be used as accent colours to provide additional vitality to gr
 		<td style="background-color: #be1818; color: #ffffff">
 			#be1818
 		</td>
-		<td>
-			
-		</td>
 	</tr>	
 	<tr>
 		<td>
@@ -160,9 +133,6 @@ These colours can be used as accent colours to provide additional vitality to gr
 		</td>
 		<td style="background-color: #c75301; color: #ffffff">
 			#c75301
-		</td>
-		<td>
-			
 		</td>
 	</tr>		
 </table>	
