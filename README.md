@@ -1,6 +1,6 @@
 # ux-elements-docs
 
-UX Documentation for [Elements design system web site](https://frontend-design-system.dev.private.springernature.io).
+UX Documentation for [Elements design system web site](https://frontend-design-system.private.springernature.app).
 
 **Note: this documentation is Open Source i.e. public**. Currently it is only consumed by internal applications.
 
