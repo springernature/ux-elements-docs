@@ -8,11 +8,11 @@ UX Documentation for [Elements design system web site](https://frontend-design-s
 
 ## About
 
-These files are ingested by the [Elements design system web site](https://frontend-design-system.dev.private.springernature.io). That web site will be automatically updated when changes to the documentation in this repo occur.
+These files are ingested by the [Elements design system web site](https://frontend-design-system.private.springernature.app/). That web site will be automatically updated when changes to the documentation in this repo occur.
 
 ### Layout
 
-The [introduction.md](introduction.md) file powers the content seen in the [root](https://frontend-design-system.dev.private.springernature.io) of the site
+The [introduction.md](introduction.md) file powers the content seen in the [root](https://frontend-design-system.private.springernature.app/) of the site
 
 Sub-folders contain content for the respective brands.
 
