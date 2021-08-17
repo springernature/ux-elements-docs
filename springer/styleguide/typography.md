@@ -7,7 +7,7 @@
  <br />
  
 ### Georgia
-We use Georgia as our primary typeface for headings and the main body text. Georgia is pre-installed most personal computers so it does not
+We use Georgia as our primary typeface for headings and the main body text. Georgia is pre-installed on most personal computers, making it very web-friendly, as does not require the browser to load the font. 
 
 ### System fonts
 We use system fonts or “native typography” for elements that are interactive, such as buttons, forms and navigation links. We also use it for secondary information such as meta data, author names, publication dates and article summaries.
@@ -29,7 +29,7 @@ Follow these principles to ensure a comfortable reading experience:
 
  <br />
 
-### Headings styles
+### Heading styles
 
 <table>
         <tr>
