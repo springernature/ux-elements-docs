@@ -7,12 +7,12 @@
  <br />
  
 ### Georgia
-We use Georgia as our primary typeface for headings and the main body text. Georgia is pre-installed on most personal computers, making it very web-friendly, as does not require the browser to load the font. 
+Georgia is a serif typeface designed to be legible on low res screens. It is Springer's primary digital typeface, used for main body text and headings. As a web safe font, Georgia is pre-installed on most modern operating systems, ensuring a consistent display on any device. This also benefits the user experience as it saves performance time in the browser.
 
 ### System fonts
 We use system fonts or “native typography” for elements that are interactive, such as buttons, forms and navigation links. We also use it for secondary information such as meta data, author names, publication dates and article summaries.
 
-Using system fonts ensure our websites can perform well on slow connection speeds, creating a more frictionless experience. Fonts native to the users’ OS, such as Apple’s SF Pro and Microsoft’s Segoe UI are also well optimised for legibility.
+Using system fonts ensure our websites can perform well on slow connection speeds, creating a more frictionless experience. Sans-serif fonts that are native to the users’ OS, include Apple’s SF Pro and Microsoft’s Segoe UI and are well optimised for legibility.
 
  <br />
 
