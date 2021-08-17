@@ -110,7 +110,7 @@ Use our font styles consistently by always making sure they reflect the informat
                        18px <br />
                        bold <br />
                        Georgia <br />
-                       28px <br />
+                       24px <br />
                 </td>
         </tr>
         <tr>
@@ -127,13 +127,13 @@ Use our font styles consistently by always making sure they reflect the informat
                        18px <br />
                        regular <br />
                        georgia <br />
-                       28px <br />
+                       24px <br />
                 </td>
                 <td>
                        18px <br />
                        regular <br />
                        Georgia <br />
-                       18px <br />
+                       24px <br />
                 </td>
         </tr>	
 </table>	
