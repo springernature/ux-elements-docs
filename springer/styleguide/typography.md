@@ -57,7 +57,7 @@ Use our font styles consistently by always making sure they reflect the informat
                 <td>
                        32px <br />
                        regular <br />
-                       harding <br />
+                       georgia <br />
                        36px <br />
                 </td>
                 <td>
@@ -102,14 +102,14 @@ Use our font styles consistently by always making sure they reflect the informat
                 </td>
                 <td>
                        20px <br />
-                       bold <br />
+                       regular <br />
                        georgia <br />
                        28px <br />
                 </td>
                 <td>
                        18px <br />
-                       bold <br />
-                       Georgia <br />
+                       regular <br />
+                       georgia <br />
                        24px <br />
                 </td>
         </tr>
@@ -132,7 +132,7 @@ Use our font styles consistently by always making sure they reflect the informat
                 <td>
                        18px <br />
                        regular <br />
-                       Georgia <br />
+                       georgia <br />
                        24px <br />
                 </td>
         </tr>	
