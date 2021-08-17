@@ -172,14 +172,14 @@ Follow these principles to ensure a comfortable reading experience:
                        18px <br />
                        regular <br />
                        georgia <br />
-                       0.012em
+                       0.012em <br />
                        31px <br />
                 </td>
                 <td>
                        18px <br />
                        regular <br />
                        georgia <br />
-                       0.012em
+                       0.012em <br />
                        31px <br />
                 </td>
         </tr>	
