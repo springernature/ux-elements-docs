@@ -25,6 +25,8 @@ Use our font styles consistently by always making sure they reflect the informat
 * Body text and paragraphs at base sizes should not exceed 800px in width
 * We use fluid typography by applying properties for different screen sizes, "Max" and "Min" 
 
+ <br />
+
 ### Headings styles
 
 <table>
