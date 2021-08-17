@@ -7,7 +7,7 @@
  <br />
  
 ### Georgia
-We use Georgia as our primary font for headings and the main body text. Georgia is pre-loaded onto most devices so it saves on performance.
+We use Georgia as our primary typeface for headings and the main body text. Georgia is pre-installed most personal computers so it does not
 
 ### System fonts
 We use system fonts or “native typography” for elements that are interactive, such as buttons, forms and navigation links. We also use it for secondary information such as meta data, author names, publication dates and article summaries.
@@ -25,7 +25,7 @@ Use our font styles consistently by always making sure they reflect the informat
 * Body text and paragraphs at base sizes should not exceed 800px in width
 * We use fluid typography by applying properties for different screen sizes, "Max" and "Min" 
 
-### Headings (Nature journals)
+### Headings styles
 
 <table>
         <tr>
@@ -105,10 +105,33 @@ Use our font styles consistently by always making sure they reflect the informat
                        28px <br />
                 </td>
                 <td>
-                       20px <br />
+                       18px <br />
                        bold <br />
                        Georgia <br />
                        28px <br />
+                </td>
+        </tr>
+        <tr>
+                <td>
+                       heading 4
+                </td>
+                <td>
+                       font-size: <br />
+                       font-weight: <br />
+                       font-family: <br />
+                       line-height: <br />
+                </td>
+                <td>
+                       18px <br />
+                       regular <br />
+                       georgia <br />
+                       28px <br />
+                </td>
+                <td>
+                       18px <br />
+                       regular <br />
+                       Georgia <br />
+                       18px <br />
                 </td>
         </tr>	
 </table>	
