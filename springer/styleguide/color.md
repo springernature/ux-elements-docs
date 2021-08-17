@@ -1,0 +1,1 @@
+# Springer color palette
