@@ -29,12 +29,12 @@ Follow these principles to ensure a comfortable reading experience:
 
  <br />
 
-### Heading styles
+### Styles
 
 <table>
         <tr>
                 <th>
-                       Heading style 
+                       Heading styles 
                 </th>
                 <th>
                        Properties 
@@ -140,3 +140,49 @@ Follow these principles to ensure a comfortable reading experience:
         </tr>	
 </table>	
 
+<br />
+
+<table>
+        <tr>
+                <th>
+                       Paragraph styles 
+                </th>
+                <th>
+                       Properties 
+                </th>	
+                <th>
+                       Max 
+                </th>
+                <th>
+                       Min
+                </th>
+        </tr>
+        <tr>
+                <td>
+                       Body
+                </td>
+                <td>
+                       font-size: <br />
+                       font-weight: <br />
+                       font-family: <br />
+                       letter-spacing: <br />
+                       line-height: <br />
+                </td>
+                <td>
+                       18px <br />
+                       regular <br />
+                       georgia <br />
+                       0.012em
+                       31px <br />
+                </td>
+                <td>
+                       18px <br />
+                       regular <br />
+                       georgia <br />
+                       0.012em
+                       31px <br />
+                </td>
+        </tr>	
+</table>	
+
+<br />
