@@ -13,7 +13,7 @@ This toolkit will ultimately provide you with:
 
 It is a work in progress and content will be added continuously. If you wish to contribute to any of the styleguide, components or patterns, or just want some more information please contact elements@springernature.com.
 
-## Design Princples
+## Design Principles
 
 The Nature brand stands for the very best in scientific information.
 In keeping with our scientific mission, our design system is based on rational information design principles. 
