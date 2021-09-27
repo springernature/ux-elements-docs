@@ -1,1 +1,1 @@
-Developer guide or faqs goes here!
+Please see the [Elements Playbook](https://github.com/springernature/frontend-elements-docs) on GitHub.
