@@ -7,10 +7,12 @@
  <br />
  
 ### Georgia
-Georgia is a serif typeface designed to be legible on low res screens. It is Springer's primary digital typeface, used for main body text and headings. As a web safe font, Georgia is pre-installed on most modern operating systems, ensuring a consistent display on any device. This also benefits the user experience as it saves performance time in the browser.
+Georgia is a serif typeface designed to be legible on low res screens. It is Springer's headline font, used for text headings. As a web safe font, Georgia is pre-installed on most modern operating systems, ensuring a consistent display on any device. This also benefits the user experience as it saves performance time in the browser.
 
 ### System fonts
-We use system fonts or “native typography” for elements that are interactive, such as buttons, forms and navigation links. We also use it for secondary information such as meta data, author names, publication dates and article summaries.
+We use system fonts or “native typography” for all text elements that are interactive, such as buttons, forms and navigation links. We also use it for secondary information such as meta data, author names, publication dates and article summaries.
+
+For Springer sites, we now use this for as our primary body font.
 
 Using system fonts ensure our websites can perform well on slow connection speeds, creating a more frictionless experience. Sans-serif fonts that are native to the users’ OS, include Apple’s SF Pro and Microsoft’s Segoe UI and are well optimised for legibility.
 
@@ -171,14 +173,14 @@ Follow these principles to ensure a comfortable reading experience:
                 <td>
                        18px <br />
                        regular <br />
-                       georgia <br />
+                       -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif <br />
                        0.012em <br />
                        31px <br />
                 </td>
                 <td>
                        18px <br />
                        regular <br />
-                       georgia <br />
+                       -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif <br />
                        0.012em <br />
                        31px <br />
                 </td>
