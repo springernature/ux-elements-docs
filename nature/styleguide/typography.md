@@ -32,7 +32,33 @@ Use our font styles consistently by always making sure they reflect the informat
 * Body text and paragraphs at base sizes should not exceed 800px in width
 * We use fluid typography by applying properties for different screen sizes, "Max" and "Min" 
 
-### Headings (Nature journals)
+## Headings
+
+## Write headings in sentence case
+
+For example, “Latest reviews and analysis” not “Latest Reviews and Analysis”.
+
+Sentence case is easier for people to read.
+
+Headings should follow [our content guidelines](/content).
+
+### Make headings meaningful
+
+Use descriptive headings that convey the meaning of the section they refer to. This helps users scan and find the information they need, without having to read all of the content from top to bottom.
+For example, “Publish with us” is clearer than “Information on submission”.
+
+### Use heading levels to communicate page structure
+
+Use semantic heading levels <h1> to <h6> to show the order of importance of the content on a page.
+Only include one <h1> per page, for the main heading.
+
+Don’t skip heading levels. For example, don’t follow an <h2> with an <h4>. Doing this can be confusing, particularly for some assistive technology users.
+
+Learn  more about how to use heading levels in the [W3 guide to headings](https://www.w3.org/WAI/tutorials/page-structure/headings/).
+
+### Heading sizes
+
+Here are the heading sizes we use for Nature Journals.
 
 <table>
         <tr>
@@ -129,3 +155,10 @@ Use our font styles consistently by always making sure they reflect the informat
         </tr>	
 </table>	
 
+### Changing default heading sizes
+
+Our typography styles determine the size of headings based on the heading level you apply. For example, an <h1> is the largest at 30px, followed by <h2> at 24px, and so on.
+
+If you need to use a different font size for a heading, you can use a utility class to override the default sizing.
+
+Do not change the semantic heading level purely to make the heading visually larger or smaller.
