@@ -52,7 +52,7 @@ For example, “Publish with us” is clearer than “Information on submission�
 Use semantic heading levels <h1> to <h6> to show the order of importance of the content on a page.
 Only include one `<h1>` per page, for the main heading.
 
-Don’t skip heading levels. For example, don’t follow an <h2> with an <h4>. Doing this can be confusing, particularly for some assistive technology users.
+Don’t skip heading levels. For example, don’t follow an `<h2>` with an `<h4>`. Doing this can be confusing, particularly for some assistive technology users.
 
 Learn  more about how to use heading levels in the [W3 guide to headings](https://www.w3.org/WAI/tutorials/page-structure/headings/).
 
