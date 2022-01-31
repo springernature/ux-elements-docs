@@ -49,7 +49,7 @@ For example, “Publish with us” is clearer than “Information on submission�
 
 ### Use heading levels to communicate page structure
 
-Use semantic heading levels <h1> to <h6> to show the order of importance of the content on a page.
+Use semantic heading levels `<h1>` to `<h6>` to show the relationship of sections to subsections in the page structure.
 Only include one `<h1>` per page, for the main heading.
 
 Don’t skip heading levels. For example, don’t follow an `<h2>` with an `<h4>`. Doing this can be confusing, particularly for some assistive technology users.
