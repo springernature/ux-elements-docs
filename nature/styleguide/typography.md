@@ -159,6 +159,10 @@ Here are the heading sizes we use for Nature Journals.
 
 Our typography styles determine the size of headings based on the heading level you apply. For example, an `<h1>` is the largest at 30px, followed by `<h2>` at `24px`, and so on.
 
-If you need to use a different font size for a heading, you can use a utility class to override the default sizing.
+If you need to use a different font size for a heading, you can use a utility class to override the default sizing. For example:
+
+```
+<h2 class="u-h3">Smaller h2 rendering</h2>
+```
 
 Do not change the semantic heading level purely to make the heading visually larger or smaller.
