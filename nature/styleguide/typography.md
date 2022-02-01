@@ -40,7 +40,7 @@ For example, “Latest reviews and analysis” not “Latest Reviews and Analysi
 
 Sentence case is easier for people to read.
 
-Headings should follow [our content guidelines](/content).
+Headings should follow [our content guidelines](https://frontend-design-system.private.springernature.app/nature/content).
 
 ### Make headings meaningful
 
