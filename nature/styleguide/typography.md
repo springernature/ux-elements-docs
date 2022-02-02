@@ -34,7 +34,7 @@ Use our font styles consistently by always making sure they reflect the informat
 
 ## Headings
 
-## Write headings in sentence case
+### Write headings in sentence case
 
 For example, “Latest reviews and analysis” not “Latest Reviews and Analysis”.
 
