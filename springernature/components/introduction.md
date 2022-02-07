@@ -1,6 +1,6 @@
 Components are reusable parts of the user interface, like headers, footers and form inputs.
 
-Use Elements Design System components to guide you when you’re designing, creating or updating digital products for Springer Nature, Nature or Springer. 
+Use Elements Design System components to guide you when you’re designing, creating or updating digital products for Springer Nature, Nature Portfolio or Springer. 
 
 You’ll find:
 
