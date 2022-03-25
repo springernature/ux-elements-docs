@@ -3,7 +3,7 @@
 
 Nature Portfolio is here to serve the research community by publishing its most significant discoveries - findings that advance knowledge and address some of the greatest challenges that we face as a society today. Our journals publish primary research, reviews, critical comment, news and analysis.
 
-This toolkit will ultimately provide you with;
+This toolkit will ultimately provide you with:
 
 - Our styleguide guidelines on accessibility, layout, typography, and iconography amongst others
 - Components that are used on Nature Portfolio branded products that can be consumed or copied for your products
