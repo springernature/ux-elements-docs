@@ -1,6 +1,5 @@
 ## Springer Nature
 
-
 Welcome to the toolkit for our Springer Nature digital product brand.  
 
 This design toolkit sets the core principles of our creative direction, to help our globally distributed teams build brand-compliant products with a unified, consistent look & feel, that is distinctly Springer Nature.

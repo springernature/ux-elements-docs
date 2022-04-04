@@ -1,6 +1,5 @@
 # Nature Portfolio
 
-
 Nature Portfolio is here to serve the research community by publishing its most significant discoveries - findings that advance knowledge and address some of the greatest challenges that we face as a society today. Our journals publish primary research, reviews, critical comment, news and analysis.
 
 This toolkit will ultimately provide you with:

@@ -1,4 +1,4 @@
-## Nature Portfolio styleguide
+# Nature Portfolio styleguide
 
 Think of a styleguide as a set of design standards for our brands that define specific elements of the visual language such as color, typography, use of logos and icons etc on our digital platform.
 

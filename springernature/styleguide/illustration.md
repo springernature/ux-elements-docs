@@ -2,7 +2,6 @@
 
 We use illustrations as a communication tool to provide greater clarity of complex information that our authors need to know when preparing for submission, helping guide their expectations of our services in a more accessible tone.
 
- <br />
 
 ## When to use illustrations on our products
 * Helping authors make decisions on where to publish
@@ -17,7 +16,6 @@ We use illustrations as a communication tool to provide greater clarity of compl
 </picture>
 </figure>
 
- <br />
 
 <figure>
 <picture>
@@ -26,7 +24,6 @@ We use illustrations as a communication tool to provide greater clarity of compl
 </picture>
 </figure>
 
- <br />
 
 <figure>
 <picture>

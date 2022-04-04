@@ -1,10 +1,8 @@
 # Typography
 
- <br />
  
 ## Font Families
 
- <br />
  
 ### Georgia
 Georgia is a serif typeface designed to be legible on low res screens. It is Springer's headline font, used for text headings. As a web safe font, Georgia is pre-installed on most modern operating systems, ensuring a consistent display on any device. This also benefits the user experience as it saves performance time in the browser.
@@ -16,7 +14,6 @@ For Springer sites, we now use this for as our primary body font.
 
 Using system fonts ensure our websites can perform well on slow connection speeds, creating a more frictionless experience. Sans-serif fonts that are native to the users’ OS, include Apple’s SF Pro and Microsoft’s Segoe UI and are well optimised for legibility.
 
- <br />
 
 ## Principles and usage
 

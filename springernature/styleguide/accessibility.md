@@ -1,6 +1,5 @@
 # Accessibility
 
- <br />
  
 ## What is accessibility?
 Accessibility is the practice of designing products and services to be usable by all people. This includes people with vision, hearing, cognitive or motor impairments. Designing for accessibility also creates added benefits for all users. For example, high contrast, readable text makes it easier to read on a phone in bright sunlight.
@@ -13,7 +12,6 @@ To make sure products are accessible to everyone, follow the  [four principles o
 3. **Understandable:** Information and operation of the interface must be understandable. 
 4. **Robust:** Content can be interpreted by a variety of assistive technologies and withstand changes in these technologies.
 
- <br />
 
 ## Use alternative (alt) text on images
 We use alt text to describe the appearance and function of an image on a page. It’s a textual alternative to non-text content.
@@ -36,7 +34,6 @@ There isn’t a hard and fast rule. The alt text for a particular image may chan
 * Context is important e.g. it may be appropriate to note if an image is a photo or an artwork, whether a person is old or young, if the sky is stormy or clear, if that is relevant to the content. 
 * Think about how you would describe the image to a person who can’t see it.
 
- <br />
 
 # Color
 

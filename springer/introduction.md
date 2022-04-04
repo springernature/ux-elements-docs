@@ -1,4 +1,4 @@
-## Springer
+# Springer
 
 Welcome to the toolkit for our Springer digital product brand.  
 
