@@ -25,9 +25,5 @@ We use illustrations as a communication tool to provide greater clarity of compl
 </figure>
 
 
-<figure>
-<picture>
-<source type="image/svg" srcset="/images/springernature/illustration-collab.svg">
-<img src="/images/springernature/illustration-collab.svg" alt=""/>	
-</picture>
-</figure>
+
+![illustration-404](https://user-images.githubusercontent.com/15365576/162171290-34698ddc-4924-422a-945b-82826d196844.svg)
