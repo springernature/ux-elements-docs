@@ -8,22 +8,15 @@ We use illustrations as a communication tool to provide greater clarity of compl
 * Highlight key benefits and services of the Nature Portfolio
 * Explaining our publishing and editorial processes
 
-## Illustrations in use
-<figure>
-<picture>
-<source type="image/svg" srcset="/images/springernature/illustration-404.svg">
-<img src="/images/springernature/illustration-404.svg" alt=""/>	
-</picture>
-</figure>
-
-
-<figure>
-<picture>
-<source type="image/svg" srcset="/images/springernature/illustration-Maintenence.svg">
-<img src="/images/springernature/illustration-Maintenence.svg" alt=""/>	
-</picture>
-</figure>
+## Illustration examples
 
 
 
-![illustration-404](https://user-images.githubusercontent.com/15365576/162171290-34698ddc-4924-422a-945b-82826d196844.svg)
+Error message
+![illustration](https://user-images.githubusercontent.com/15365576/165169816-19056691-2eb5-4756-ad83-5255ea9901ee.svg)
+
+Product development 
+![illustration](https://user-images.githubusercontent.com/15365576/165169862-5d3fcb12-0e5f-4997-8449-081caf5f1ba8.svg)
+
+User survey
+![survey](https://user-images.githubusercontent.com/15365576/165169896-448955f9-e35f-43d0-8476-c13b2c115583.svg)
