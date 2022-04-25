@@ -4,8 +4,8 @@ We use illustrations as a communication tool to provide greater clarity of compl
 
 
 ## When to use illustrations on our products
-* Helping authors make decisions on where to publish
-* Highlight key benefits and services of the Nature Portfolio
+* Reinforce important status messages
+* Highlight key benefits of our services
 * Explaining our publishing and editorial processes
 
 ## Illustration examples
