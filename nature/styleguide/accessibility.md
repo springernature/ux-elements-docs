@@ -3,7 +3,7 @@
 ## What is accessibility?
 Accessibility is the practice of designing products and services to be usable by all people. This includes people with vision, hearing, cognitive or motor impairments. Designing for accessibility also creates added benefits for all users. For example, high contrast, readable text makes it easier to read on a phone in bright sunlight.
 
-Ensuring our websites are accessible is the responsibility of everyone at Springer Nature. It is also required by law in many countries where we do business. As a research publisher, we have a duty to make human knowledge accessible for people with all abilities.
+Ensuring our websites are accessible is the responsibility of everyone at Springer Nature. It is also required by law in many countries where we do business. As a research publisher, we have a duty to make human knowledge accessible for people with all abilities. Accessibility is required to effectively opening the doors to discovery for all.
 
 To make sure products are accessible to everyone, follow the  [four principles of the Web Content Accessibility Guidelines](https://www.w3.org/TR/UNDERSTANDING-WCAG20/intro.html#introduction-fourprincs-head) :
 1. **Perceivable:** It can be perceived by at least one of a person’s senses.
@@ -34,8 +34,8 @@ There isn’t a hard and fast rule. The alt text for a particular image may chan
 
 # Color
 
-## Use High-Contrast Colors
+## Use Enough Contrasting Colors
 Users can find it difficult to read light text on a light background, or dark text on a dark background. To improve accessibility, it’s recommended that you pick text and background colors with sufficient color contrast. We are committed to complying with the Web Content Accessibility Guidelines AA standard contrast ratios.
 
 ## Don’t Rely Entirely on Color
-Over 5% of the people in the world have some form of colorblindness. It’s rare for someone to see only in black and white, but for the sake of understanding, imagine if your website was suddenly in grayscale. We can modify this by using icons and text labels.
+Over 5% of the people in the world have some form of colorblindness. It’s rare for someone to see only in black and white, but for the sake of understanding, imagine if your website was suddenly in grayscale. We can modify this by using icons, text labels, and underlining links.
