@@ -14,3 +14,11 @@ To help understand the impact of colour, try using a [color-blind simulator](htt
 ## Colour palette
 We are currently working on generating design tokens on the Elements website. You can view our list of colours [on our sketch styleguide](https://www.sketch.com/s/fa9c2fc9-a179-43f0-b21e-9562c9c17c0c/a/Ompxge8).
 
+
+|                 | White | Greyscale-200 | Greyscale-300 | Greyblue-200 | Greyscale-400 | Greyblue-300 | Greyscale-500 |
+| --------------- | ----- | ------------- | ------------- | ------------ | ------------- | ------------ | ------------- |
+| Dark Blue       | Pass  | Pass          | Pass          | Pass         | Pass          | Pass         | Pass          |
+| Research Blue   | Pass  | Pass          | Pass          | Pass         | Fail          | Fail         | Fail          |
+| Research Purple | Pass  | Pass          | Pass          | Pass         | Fail          | Fail         | Fail          |
+| Research Forest | Pass  | Pass          | Pass          | Pass         | Fail          | Fail         | Fail          |
+| Research Orange | Pass  | Fail          | Fail          | Fail         | Fail          | Fail         | Fail          |
