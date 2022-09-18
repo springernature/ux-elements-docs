@@ -17,8 +17,8 @@ We are currently working on generating design tokens on the Elements website. Yo
 
 |                 | White | Greyscale-200 | Greyscale-300 | Greyblue-200 | Greyscale-400 | Greyblue-300 | Greyscale-500 |
 | --------------- | ----- | ------------- | ------------- | ------------ | ------------- | ------------ | ------------- |
-| **Dark Blue**   | Pass ✅  | Pass          | Pass          | Pass         | Pass          | Pass         | Pass          |
-| Research Blue   | Pass  | Pass          | Pass          | Pass         | Fail          | Fail         | Fail          |
-| Research Purple | Pass  | Pass          | Pass          | Pass         | Fail          | Fail         | Fail          |
-| Research Forest | Pass  | Pass          | Pass          | Pass         | Fail          | Fail         | Fail          |
-| Research Orange | Pass  | Fail          | Fail          | Fail         | Fail          | Fail         | Fail          |
+| **Dark Blue**       | Pass ✅ | Pass ✅         | Pass ✅         | Pass ✅        | Pass ✅         | Pass ✅        | Pass ✅         |
+| **Research Blue**   | Pass ✅ | Pass ✅         | Pass ✅         | Pass ✅        | Fail ❌         | Fail ❌        | Fail ❌         |
+| **Research Purple** | Pass ✅ | Pass ✅         | Pass ✅         | Pass ✅        | Fail ❌         | Fail ❌        | Fail ❌         |
+| **Research Forest** | Pass ✅ | Pass ✅         | Pass ✅         | Pass ✅        | Fail ❌         | Fail ❌        | Fail ❌         |
+| **Research Orange** | Pass ✅ | Fail ❌         | Fail ❌         | Fail ❌        | Fail ❌         | Fail ❌        | Fail ❌         |
