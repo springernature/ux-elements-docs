@@ -1,7 +1,8 @@
 # Colour
 
-**Principles**
-Colour contrast must be accessible. 
+## Principles
+
+**Colour contrast must be accessible.** 
 Springer Nature is committed to meeting WCAG 2.1 level AA which requires 4.5:1 contrast for text. Use the colours provided to ensure sufficient contrast.
 
 **Don’t rely on colour to convey meaning.** 
