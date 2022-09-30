@@ -86,14 +86,6 @@ Buttons use colours from the core palette to show different states for primary a
 ## Accessible combinations
 People with low vision or colour blindness can find it difficult to read light text on a light background, or dark text on a dark background. Under level AA of the  WCAG 2.1, text must have a contrast ratio of at least 4.5:1. Use the table below to see which combinations of colours achieve enough contrast.
 
-|                 | White | Greyscale-200 | Greyscale-300 | Greyblue-200 | Greyblue-300 |
-| --------------- | ----- | ------------- | ------------- | ------------ | ------------ |
-| Research Purple | Pass ✅  | Pass ✅          | Pass ✅          | Pass ✅         | Fail ❌         |
-| Research Forest | Pass ✅  | Pass ✅          | Pass ✅          | Pass ✅         | Fail ❌         |
-| Research Orange | Pass ✅  | Fail ❌          | Fail ❌          | Fail ❌         | Fail ❌         |
-
-
-
 |               | White | Greyscale-200 | Greyscale-300 | Greyblue-200 | Greyblue-300 |
 | ------------- | ----- | ------------- | ------------- | ------------ | ------------ |
 | Blue-800      | Pass ✅  | Pass ✅          | Pass ✅          | Pass ✅         | Pass ✅         |
@@ -101,6 +93,9 @@ People with low vision or colour blindness can find it difficult to read light t
 | Greyscale-800 | Pass ✅  | Pass ✅          | Pass ✅          | Pass ✅         | Pass ✅         |
 | Greyscale-700 | Pass ✅  | Pass ✅          | Pass ✅          | Pass ✅         | Pass ✅         |
 | Greyscale-600 | Pass ✅  | Pass ✅          | Pass ✅          | Pass ✅         | Fail ❌         |
+| Research Purple | Pass ✅  | Pass ✅          | Pass ✅          | Pass ✅         | Fail ❌         |
+| Research Forest | Pass ✅  | Pass ✅          | Pass ✅          | Pass ✅         | Fail ❌         |
+| Research Orange | Pass ✅  | Fail ❌          | Fail ❌          | Fail ❌         | Fail ❌         |
 
 Don’t use a colour combination that fails to meet  a contrast ratio of at least 4.5:1. Use background colours with the correct colour tokens.
 
