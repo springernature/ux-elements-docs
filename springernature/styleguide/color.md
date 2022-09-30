@@ -52,7 +52,7 @@ Backgrounds are used for the surface layers of the UI such as pages, containers,
 
 You can also use backgrounds to highlight important content to the user. However, use this sparingly on a single page to maintain the hierarchy.
 
-![Panel](https://user-images.githubusercontent.com/15365576/193304882-a999a936-9082-45bf-afca-e574129561db.png)
+![Panel](https://user-images.githubusercontent.com/15365576/193319801-338da3fd-5a01-47a0-b148-cf9ae7612a0c.png)
 
 ### Text
 Text colours reinforce the content hierarchy for typography. Combined with text tokens, they indicate different states for text links and aid wayfinding.
