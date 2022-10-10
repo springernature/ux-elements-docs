@@ -45,14 +45,15 @@ Use status colours for giving feedback to the user, such as error validation in 
 ## Applying colour
 We use design tokens to define the role of each colour in the interface. Tokens are named based on the type of function they have, as well their placement and interaction state. We use tokens instead of hard coded values to support a consistent UI across our products. 
 
-Only use colours defined by the Elements Design System to ensure consistency across our products. If you’re thinking of contributing a new design that expands the colour palette, contact the elements team on Slack.
+Only use colours defined by the Elements Design System to ensure consistency across our products. If you’re thinking of contributing a new design that expands the colour palette, [contact the elements team on Slack]([url](https://springernature.slack.com/archives/CNBTFLBLP)).
 
 Don’t adjust the opacity of colours to create tints for interface elements. The only exception is for drop shadows or illustrations. 
 
 ### Backgrounds
 Backgrounds are used for the surface layers of the UI such as pages, containers, tables, headers, footers and cards. All content such as text, buttons, forms and icons are on a background.
 
-![Panel](https://user-images.githubusercontent.com/15365576/194835937-3e7b223e-dec1-4fae-bffe-aadb16f18290.png)
+![Panel](https://user-images.githubusercontent.com/15365576/194900837-e2ded4c0-5951-45aa-806c-a9cdce399844.png)
+
 
 
 You can also use backgrounds to highlight important content to the user. However, use this sparingly on a single page to maintain the hierarchy.
@@ -95,7 +96,19 @@ Buttons use colours from the core palette to show different states for primary a
 
 
 ## Accessible combinations
-People with low vision or colour blindness can find it difficult to read light text on a light background, or dark text on a dark background. Under level AA of the  WCAG 2.1, text must have a contrast ratio of at least 4.5:1. Use the table below to see which combinations of colours achieve enough contrast.
+People with low vision or colour blindness can find it difficult to read light text on a light background, or dark text on a dark background. Under level AA of the [WCAG 2.1]([url](https://www.w3.org/WAI/standards-guidelines/wcag//)), text must have a contrast ratio of at least 4.5:1. Use the table below to see which combinations of colours achieve enough contrast.
+
+
+|               | White | Greyscale-200 | Greyscale-300 | Greyblue-200 | Greyblue-300 |
+| ------------- | ----- | ------------- | ------------- | ------------ | ------------ |
+| Blue-800      | Pass ✅  | Pass ✅          | Pass ✅          | Pass ✅         | Pass ✅         |
+| Blue-700      | Pass ✅  | Pass ✅          | Pass ✅          | Pass ✅         | Pass ✅         |
+| Greyscale-800 | Pass ✅  | Pass ✅          | Pass ✅          | Pass ✅         | Pass ✅         |
+| Greyscale-700 | Pass ✅  | Pass ✅          | Pass ✅          | Pass ✅         | Pass ✅         |
+| Greyscale-600 | Pass ✅  | Pass ✅          | Pass ✅          | Pass ✅         | Fail ❌         |
+| Research Purple | Pass ✅  | Pass ✅          | Pass ✅          | Pass ✅         | Fail ❌         |
+| Research Forest | Pass ✅  | Pass ✅          | Pass ✅          | Pass ✅         | Fail ❌         |
+| Research Orange | Pass ✅  | Fail ❌          | Fail ❌          | Fail ❌         | Fail ❌         |
 
 Don’t use a colour combination that fails to meet  a contrast ratio of at least 4.5:1. Use background colours with the correct colour tokens.
 
@@ -103,19 +116,20 @@ Don’t use a colour combination that fails to meet  a contrast ratio of at leas
 
 
 ### Types of colour vision
-This image shows how colours may look like to people with different forms of colour blindness compared to full-colour vision.
+This image shows how accent colours may look like to people with different forms of colour blindness compared to full-colour vision.
 
-![Group 4](https://user-images.githubusercontent.com/15365576/194836375-640f5276-d50c-480d-9772-204c928e3872.png)
+![Group 4](https://user-images.githubusercontent.com/15365576/193306417-65bec852-a506-4493-94c6-611ee22c6ad6.png)
 
+- Deuteranopia (may confuse blue and purple) - affects about 5% of all males
+- Protanopia (may confuse blue and purple) - affects about 2.5% of all males
+- Tritanopia (unable to distinguish blue or yellow) - affects about 0.5% of all males
+- Monochromacy
 
-Deuteranopia (may confuse blue and purple) - affects about 5% of all males
-Protanopia (may confuse blue and purple) - affects about 2.5% of all males
-Tritanopia (unable to distinguish blue or yellow) - affects about 0.5% of all males
-Monochromacy
-Don’t rely on colour as the only visual means of conveying information. Decrease reliance on colour by using icons, text labels and always making sure text links are underlined. 
+Don’t rely on colour as the [only visual means of conveying information]([url](https://www.w3.org/WAI/WCAG21/Understanding/use-of-color.html)). Decrease reliance on colour by using icons, text labels and always making sure text links are underlined. 
 
 ## Tools for designers
-Use the Sketch styleguide to use the Elements colour palette in your designs
-If you’re designing in Sketch, we recommend using the stark plugin to the check colour contrast of your designs
-Install simulators such as Color Oracle or Chromatic Vision onto your device to simulate colour blindness in real time
-Pa11y is a set of free and open source tools to help designers and developers make their web pages more accessible
+- [Use the Sketch styleguide]([url](https://www.sketch.com/s/fa9c2fc9-a179-43f0-b21e-9562c9c17c0c)) to apply the Elements colour palette in your designs.
+- If you’re designing in Sketch, we recommend using the [stark plugin]([url](https://www.getstark.co/)).
+- Install simulators such as [Color Oracle]([url](https://colororacle.org/)) or [Chromatic Vision]([url](https://asada.website/cvsimulator)) onto your device to simulate colour blindness in real time on your designs.
+- [Pa11y]([url](https://pa11y.org/)) is a set of free and open source tools to help designers and developers make their web pages more accessible.
+
