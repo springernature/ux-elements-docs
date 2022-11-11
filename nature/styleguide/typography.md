@@ -1,8 +1,8 @@
 # Typography
- 
+
 ## Font
- 
-Use Harding for headings and the main body text. 
+
+Use Harding for headings and the main body text.
 
 Use Graphik for services that sit under the Nature Portfolio such as Nano.
 
@@ -19,7 +19,7 @@ For example, “Latest reviews and analysis” not “Latest Reviews and Analysi
 
 Sentence case is easier for people to read.
 
-Headings should follow [our content guidelines](https://frontend-design-system.private.springernature.app/nature/content).
+Headings should follow [our content guidelines](https://elements.springernature.com/nature/content).
 
 ### Make headings meaningful
 
@@ -42,13 +42,13 @@ Here are the heading sizes we use for Nature Journals.
 <table>
         <tr>
                 <th>
-                       Heading style 
+                       Heading style
                 </th>
                 <th>
-                       Properties 
-                </th>	
+                       Properties
+                </th>
                 <th>
-                       Max 
+                       Max
                 </th>
                 <th>
                        Min
@@ -79,7 +79,7 @@ Here are the heading sizes we use for Nature Journals.
                        -0.01875rem <br />
                        26px <br />
                 </td>
-        </tr>	
+        </tr>
         <tr>
                 <td>
                        heading 2
@@ -131,8 +131,8 @@ Here are the heading sizes we use for Nature Journals.
                        -0.01875 <br />
                        22px <br />
                 </td>
-        </tr>	
-</table>	
+        </tr>
+</table>
 
 ### Changing default heading sizes
 

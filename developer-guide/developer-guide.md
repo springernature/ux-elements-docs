@@ -1,1 +1,0 @@
-Please see the [Elements Playbook](https://github.com/springernature/frontend-elements-docs) on GitHub.
