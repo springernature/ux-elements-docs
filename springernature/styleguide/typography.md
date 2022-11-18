@@ -78,8 +78,7 @@ Alias tokens define our typographic decisions, such as the styles for body text 
 ### Typographic scale
 Our type scale reinforces visual hierarchy. We use tokens to define each type size, using rem units to ensure consistency throughout the UI. The base size is 1rem (16px).
 
-![An example of every font size](https://user-images.githubusercontent.com/15365576/202760380-f5320815-dc6a-4ddf-9bde-6fd9bd0eff9b.png)
-
+![An example of every font size going from largest to smallest](https://user-images.githubusercontent.com/15365576/202775657-afacf62f-57e8-4e45-8c3d-77a501811edf.png)
 
 ### Headings
 
