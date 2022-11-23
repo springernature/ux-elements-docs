@@ -54,6 +54,7 @@ The Merriweather fonts, used by the Springer Nature brand, are variable fonts. T
 	font-display: swap;
 }
 ```
+<br>
 
 The `font-display`: swap property ensures a system font is displayed until the web font is downloaded. The relevant brand-context stylesheets add suitable fallback fonts in the font-family declaration.
 
