@@ -2,15 +2,11 @@
 
 ## Principles
 
-**Create clear hierarchy**
-<br/>
-Our typographic system uses font weight, scale and positioning to reflect the information hierarchy. 
+**Create clear hierarchy.** Our typographic system uses font weight, scale and positioning to reflect the information hierarchy. 
 
 Use semantic heading levels to create identifiable sections that are easy to scan.
 
-**Design to be legible**
-<br/>
-Our fonts, text colours and type spacing helps users to easily read text with minimal effort.  
+**Design to be legible.** Our fonts, text colours and type spacing helps users to easily read text with minimal effort.  
 
 ## Typefaces
 The Springer Nature brand uses the open-source Merriweather family. [Download the font files from the frontend toolkit on GitHub](https://github.com/springernature/frontend-toolkits/tree/main/context/brand-context/springernature/fonts).
