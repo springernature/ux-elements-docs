@@ -3,11 +3,13 @@
 ## Principles
 
 **Create clear hierarchy**
+<br/>
 Our typographic system uses font weight, scale and positioning to reflect the information hierarchy. 
 
 Use semantic heading levels to create identifiable sections that are easy to scan.
 
 **Design to be legible**
+<br/>
 Our fonts, text colours and type spacing helps users to easily read text with minimal effort.  
 
 ## Typefaces
@@ -48,8 +50,6 @@ The Merriweather fonts, used by the Springer Nature brand, are variable fonts. T
 	font-display: swap;
 }
 
-
-
 @font-face {
 	font-family: 'Merriweather Sans';
 	src: url('../fonts/MerriweatherSans-Variable.woff2') format('woff2 supports variations'),
@@ -78,7 +78,9 @@ Alias tokens define our typographic decisions, such as the styles for body text 
 ### Typographic scale
 Our type scale reinforces visual hierarchy. We use tokens to define each type size, using rem units to ensure consistency throughout the UI. The base size is 1rem (16px).
 
-![An example of every font size going from largest to smallest](https://user-images.githubusercontent.com/15365576/202775657-afacf62f-57e8-4e45-8c3d-77a501811edf.png)
+![An example of every font size going from largest to smallest](https://user-images.githubusercontent.com/15365576/203644124-8b5fb70d-1459-4944-b05f-3fe7778c89e4.png)
+
+
 
 ### Headings
 
@@ -97,17 +99,18 @@ For sentences or paragraphs, do not exceed a line length of 90 characters to mai
 
 ### Spacing
 
-### Line height
+#### Line height
 We use `line-height` tokens to set the spacing between lines of text in the same paragraph. 
 
 Use `line-height` that is proportional to the font size. For example, when setting paragraph text that uses `font-size-400` (16px), use `$line-height-md`. Lines that are too close together will [negatively impact the readability of your content](https://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast-visual-presentation.html). 
  
  ![Panel](https://user-images.githubusercontent.com/15365576/202774569-e2f08c01-5fbd-4692-a8b4-4c56672e0faf.png)
 
-### Block spacing
+#### Block spacing
 Use block spacing to place margins before paragraph and heading elements. Always use the 8px grid for spacing elements to ensure consistency.
  
  ![Group](https://user-images.githubusercontent.com/15365576/202774847-feaaa065-21af-4623-9937-7bba236315a3.png)
+
 
 ## Tools for designers
 - Use the Sketch styleguide to use the Elements typography styles in your designs
