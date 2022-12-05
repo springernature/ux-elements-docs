@@ -27,7 +27,9 @@ See: [roles](#roles-job-titles)
 ### abbreviations
 The first time you use an abbreviation or acronym, explain it in full with the acronym following in parentheses. Then refer to it by capitalised initials.
 
-For example:  ‘You may need to pay an article processing charge (APC). The APC for this article is…’
+For example:
+<br>
+‘You may need to pay an article processing charge (APC). The APC for this article is…’
 
 Don’t  use full stops in abbreviations: APC not A.P.C.
 ## B
@@ -63,7 +65,9 @@ You don’t need full stops or semicolons in your list.
 ### capitalisation
 Use sentence case for headings.
 
-Example: ‘Your account details’ not ‘Your Account Details’.
+Example:
+<br>
+‘Your account details’ not ‘Your Account Details’.
 
 Only capitalise words at the front of sentences (sentence case) and proper nouns.
 
@@ -90,9 +94,8 @@ Licence = British English noun
 License = British English verb.
 
 Examples:
-
+<br>
 - The CC BY licence  is the default licence for all Palgrave Macmillan and SpringerOpen books and chapters.
-
 - For more information on OA licensing options in Springer Nature books and chapters see our [book policies page](https://www.springernature.com/gp/open-research/policies/book-policies).
 
 ### chapter processing charge (CPC)
@@ -104,7 +107,7 @@ Checkout can be used but only as a noun or adjective.
 Use ‘check  out’  for the verb form. Don’t hyphenate.
 
 Examples:
-
+<br>
 - Creating an account will make it faster to check out next time.
 - Use your saved details for a faster checkout experience.
 - Go to checkout.
@@ -121,7 +124,7 @@ Lower case.
 Using contractions can make your writing sound more human and personal. (Link to our SN brand voice and tone).
 
 Examples:
-
+<br>
 - you’re
 - we’ll
 - it’s (it is)
@@ -129,7 +132,7 @@ Examples:
 Do not use negative or conditional contractions as they are harder to understand for people who do not speak English as a first language.
 
 Examples not to use:
-
+<br>
 - wouldn’t
 - don’t
 - haven’t
@@ -161,14 +164,15 @@ Our most common currencies used are:
 Here is a [list of all currency codes](https://www.iban.com/currency-codes).
 
 Example:
-
+<br>
 You can only pay in United States Dollars (USD). The cost is 54.67 USD.
 
 Use a decimal point as a separator for dollars and cents. And commas as a separator of threes.
 
 Example:
-
+<br>
 1,234,567.89 USD
+
 ## D
 ### dates
 Write dates in full to avoid ambiguity.
@@ -183,7 +187,6 @@ Stands for digital object identifier.
 Use DOI in its abbreviated form in interface text.
 
 Example:
-
 DOI: 10.3103/S0967091211120151
 
 ### double-anonymous
@@ -211,7 +214,7 @@ See [roles](#roles-job-titles)
 Lower case, for generic roles or the board itself. Upper case if referring to a specific board member.
 
 Examples:
-
+<br>
 - John is on the editorial board for Journal x.
 - John Brown, Editorial Board Member, Journal x
 
@@ -221,7 +224,7 @@ Latin abbreviations can sometimes be misunderstood or mispronounced by screen re
 Do not use ‘etc’. Use ‘for example’ or ‘such as’ or ‘like’ or ‘including’ – whichever works best in the specific context.
 
 Example label on a UI form field:
-
+<br>
 - Funding source (for example, university or institutional funding)
 
 ### emails
@@ -247,7 +250,7 @@ Avoid for UX microcopy or functional text. Exclamation marks can dramatically im
 Capitalised. Not ‘.PDF’.
 
 Examples:
-
+<br>
 Upload a ZIP file.
 
 We accept manuscripts in the following formats: DOC, PDF, ZIP.
@@ -268,12 +271,12 @@ Use ‘to’ instead of a hyphen in date or time ranges. This makes it easier fo
 Avoid idioms as they are harder to understand and translate.
 
 For example, instead of:
-
-- ‘We will take steps to…’
-
+<br>
+'We will take steps to…’
+<br>
 Write:
-
-- ‘We will begin to…’
+<br>
+‘We will begin to…’
 
 ### impact factor
 Lower case.
@@ -291,18 +294,18 @@ Note capitalisation. File format commonly used in scientific disciplines includi
 Always use plain language instead of complex legal language.
 
 For example, instead of:
-
+<br>
 “I understand that for digital products, Springer Nature may start the performance of the contract before the end of the withdrawal period and I acknowledge that I thereby lose my right of withdrawal”.
-
+<br>
 Write:
-
+<br>
 “If you have bought a digital product, for example an eBook, you agree to waive your right to cancel after you select 'buy now'. You will be able to access the item immediately  after purchase.”
 
 ### licence / license
 In British English, licence is the noun and license is the verb.
 
 Examples:
-
+<br>
 - A Springer Nature licence is available to academic institutions.
 - How to license our journal articles.
 
@@ -319,7 +322,7 @@ They’re not accessible as they  can’t be understood out of context.
 Make the link text specific and use active language.
 
 Example:
-
+<br>
 Read more about [open research](https://www.springernature.com/gp/open-research).
 
 ### linking from emails
@@ -328,7 +331,7 @@ For rich text emails, follow guidance for [link text](#link-text).
 For plain text emails, introduce the link with specific and active language.
 
 Example:
-
+<br>
 Continue with publishing your article: <https://publishing-rights.springernature.com/workflows/1234>
 
 ### log in, login
@@ -337,7 +340,7 @@ Login can be used but only as a noun or adjective.
 Use ‘log in’, ‘log out’ for the verb forms. Don’t hyphenate.
 
 Examples:
-
+<br>
 - You need to log in to update your address.
 - If you have forgotten your login details - contact us.
 
@@ -351,7 +354,7 @@ See: [submission](#submission)
 Within emails, titles should be displayed within single quotes.
 
 Example:
-
+<br>
 We're delighted that your article has been accepted for publication:
 
 'The effects of exercise training on hypertensive older adults'.
@@ -374,7 +377,9 @@ Write numbers in numerals (including 1 to 9), unless they’re part of a common 
 ### open access, open data, open science
 Lower case. Unless it’s part of a proper name.
 
-Example: The Open Access Support Centre was set up to help people understand their options for publishing open access.
+Example:
+<br>
+The Open Access Support Centre was set up to help people understand their options for publishing open access.
 
 ### OA
 Abbreviation for open access.
@@ -383,7 +388,9 @@ Abbreviation for open access.
 ### PDF
 All capitals. Not ‘.PDF’
 
-Example: Upload a PDF file.
+Example:
+<br>
+Upload a PDF file.
 
 ### peer review
 Lower case. No hyphen.
@@ -413,7 +420,7 @@ Write:
 Lower case. One word, no hyphen.
 
 Example:
-
+<br>
 Research Square provides a free preprinting service to all authors.
 
 ### pronouns
@@ -436,14 +443,14 @@ Examples:
 Don’t use gendered pronouns, for example: he, him, she, her. If you must use a pronoun, use ‘they/them/their’ instead.
 
 Example:
-
-- Contact the editor if you need help. They can help with any issues.
+<br>
+Contact the editor if you need help. They can help with any issues.
 
 If possible, try to rephrase your sentence instead.
 
 Example:
-
-- If you need help with any issues, contact the editor.
+<br>
+If you need help with any issues, contact the editor.
 ## Q
 ### quality check
 Lower case. This may change to ‘technical check’ as the preferred term.
@@ -468,7 +475,9 @@ Use double quotes in body text for direct quotations.
 ### roles, job titles
 Specific job titles are capitalised, generic roles aren’t.
 
-Example: Elizabeth is Editor-in-Chief of journal x. We have many editors-in-chief.
+Example:
+<br>
+Elizabeth is Editor-in-Chief of journal x. We have many editors-in-chief.
 ## S
 ### salutation (emails)
 Use: Dear Title FirstName Surname
@@ -530,7 +539,7 @@ Use the 24-hour clock together with Coordinated Universal Time (UTC) if you are 
 Use a colon (:) between the numbers.
 
 Examples:
-
+<br>
 - We received your submission at 13:24 (UTC).
 - Our system will be down for maintenance between 23:59 and 03:00 (UTC)
 
