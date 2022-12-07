@@ -1,11 +1,10 @@
 # Introduction
 
-Use these content guidelines when you’re writing content for Springer Nature’s digital services. This includes things like:
-- UX microcopy, like button labels, error messages, link text etc.
-- Longer form UX copy, like information about a service, terms and conditions etc.
-- Communications, like emails
+These guidelines help us keep our digital content consistent across our products, platforms and services. This includes:
 
-It does not include journals and articles, which have their own content guidelines.
-## Who is this guidance for?
+- UX microcopy like help text, form field names or error messages
+- Longer-form copy like terms and conditions or instructions
+- Emails that are part of a product experience
+- This guide is primarily for anyone writing customer-facing copy in SN Digital.
 
-We don’t have a big content design team here at Springer Nature (yet) - so it’s important that anyone who’s working on our digital products is comfortable with the basics.
+If there's a topic we need to cover, or an example that needs updating, talk to Gaynor Burns.

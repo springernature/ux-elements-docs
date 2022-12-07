@@ -1,11 +1,8 @@
 # A-Z writing style guide
 
-Purpose of this document: to support a consistent customer experience by defining spelling and grammar conventions used across our Springer Nature products and services.
+These guidelines help us keep our digital content consistent across our products, platforms and services – for all imprints.
 
-Intended audience: anyone writing or testing user-facing copy in SND (including designers, product managers, QA, BAs, developers, copywriters, content designers).
-
-## How to add to this guide:
-
+If there's a topic we need to cover, or an example that needs updating, talk to Gaynor Burns
 
 ## A
 ### alt text on images
