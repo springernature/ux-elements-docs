@@ -1,6 +1,6 @@
 # A-Z writing style guide
 
-These guidelines help us keep our digital content consistent across our products, platforms and services – for all imprints.
+These guidelines help us keep our digital content consistent across our products, platforms and services – for all imprints. This guide is primarily for anyone writing customer-facing copy in SN Digital.
 
 If there's a topic we need to cover, or an example that needs updating, talk to Gaynor Burns
 
@@ -329,7 +329,7 @@ For plain text emails, introduce the link with specific and active language.
 
 Example:
 <br>
-Continue with publishing your article: <https://publishing-rights.springernature.com/workflows/1234>
+Continue with publishing your article: https://publishing-rights.springernature.com/workflows/1234
 
 ### log in, login
 Login can be used but only as a noun or adjective.
