@@ -2,7 +2,7 @@
 
 These guidelines help us keep our digital content consistent across our products, platforms and services – for all imprints. This guide is primarily for anyone writing customer-facing copy in SN Digital.
 
-If there's a topic we need to cover, or an example that needs updating, talk to Gaynor Burns
+If there's a topic we need to cover, or an example that needs updating, talk to Gaynor Burns.
 
 ## A
 ### alt text on images
