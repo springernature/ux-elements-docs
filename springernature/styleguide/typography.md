@@ -35,14 +35,14 @@ Use it for headings and long form content such as articles and book chapters.
 
 Font files are provided in the [frontend toolkits](https://github.com/springernature/frontend-toolkits), in the brand-context package. Each brand includes a **/fonts** folder. You will need to create a CSS or Sass file to reference the fonts using `@font-face`. This should be the first stylesheet you import.
 
-The Merriweather fonts, used by the Springer Nature brand, are variable fonts. The relevant weights, 300 and 700, are listed by each font’s font-weight property.
+The Merriweather fonts, used by the Springer Nature brand, are variable fonts. The relevant weights, 400 (regular) and 700 (bold), are listed by each font’s font-weight property.
 
 ```
 @font-face {
 	font-family: 'Merriweather';
 	src: url('../fonts/Merriweather-Variable.woff2') format('woff2 supports variations'),
 	url('../fonts/Merriweather-Variable.woff2') format('woff2-variations');
-	font-weight: 300 700;
+	font-weight: 400 700;
 	font-display: swap;
 }
 
@@ -50,7 +50,7 @@ The Merriweather fonts, used by the Springer Nature brand, are variable fonts. T
 	font-family: 'Merriweather Sans';
 	src: url('../fonts/MerriweatherSans-Variable.woff2') format('woff2 supports variations'),
 	url('../fonts/MerriweatherSans-Variable.woff2') format('woff2-variations');
-	font-weight: 300 700;
+	font-weight: 400 700;
 	font-display: swap;
 }
 ```
@@ -106,7 +106,7 @@ Use `line-height` that is proportional to the font size. For example, when setti
 #### Block spacing
 Use block spacing to place margins before paragraph and heading elements. Always use the 8px grid for spacing elements to ensure consistency.
  
- ![Group](https://user-images.githubusercontent.com/15365576/202774847-feaaa065-21af-4623-9937-7bba236315a3.png)
+![Typography block spacing](https://user-images.githubusercontent.com/15365576/210854763-15f739ca-ec81-40d8-bd44-3ffa7f07491f.png)
 
 
 ## Tools for designers
