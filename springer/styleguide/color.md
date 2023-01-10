@@ -12,5 +12,5 @@ To help understand the impact of colour, try using a [color-blind simulator](htt
 
 
 ## Colour palette
-We are currently working on generating design tokens on the Elements website. You can view our list of colours [on our sketch styleguide](https://www.sketch.com/s/fa9c2fc9-a179-43f0-b21e-9562c9c17c0c/a/Ompxge8).
+We are currently working on generating design tokens on the Elements website. You can view our list of colours [on our sketch style guide](https://www.sketch.com/s/fa9c2fc9-a179-43f0-b21e-9562c9c17c0c/a/Ompxge8).
 

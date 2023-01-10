@@ -4,13 +4,13 @@ Nature Portfolio is here to serve the research community by publishing its most 
 
 This toolkit will ultimately provide you with:
 
-- Our styleguide guidelines on accessibility, layout, typography, and iconography amongst others
+- Our style guide guidelines on accessibility, layout, typography, and iconography amongst others
 - Components that are used on Nature Portfolio branded products that can be consumed or copied for your products
 - Patterns for common tasks that our users do on our sites. These may be a combination of components and style guidelines
 - Guidance on how to write content that is more conversational and concise for our audiences.
 
 
-It is a work in progress and content will be added continuously. If you wish to contribute to any of the styleguide, components or patterns, or just want some more information please contact elements@springernature.com.
+It is a work in progress and content will be added continuously. If you wish to contribute to any of the style guide, components or patterns, or just want some more information please contact elements@springernature.com.
 
 ## Design Principles
 

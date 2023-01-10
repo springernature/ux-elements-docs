@@ -114,7 +114,7 @@ This image shows how accent colours may look like to people with different forms
 Don’t rely on colour as the [only visual means of conveying information](https://www.w3.org/WAI/WCAG21/Understanding/use-of-color.html). Decrease reliance on colour by using icons, text labels and always making sure text links are underlined. 
 
 ## Resources
-- [Use the Sketch styleguide](https://www.sketch.com/s/fa9c2fc9-a179-43f0-b21e-9562c9c17c0c) to apply the Elements colour palette in your designs.
+- [Use the Sketch style guide](https://www.sketch.com/s/fa9c2fc9-a179-43f0-b21e-9562c9c17c0c) to apply the Elements colour palette in your designs.
 - If you’re designing in Sketch, we recommend using the [stark plugin](https://www.getstark.co/sketch).
 - Install simulators such as [Color Oracle](https://colororacle.org/) or [Chromatic Vision](https://asada.website/cvsimulator) onto your device to simulate colour blindness in real time on your designs.
 - [Pa11y](https://pa11y.org/) is a set of free and open source tools to help designers and developers make their web pages more accessible.
