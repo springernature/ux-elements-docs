@@ -12,12 +12,17 @@ For example:
 <br>
 ‘You may need to pay an article processing charge (APC). The APC for this article is…’
 
-Do not  use full stops in abbreviations: APC not A.P.C.
+Do not use full stops in abbreviations: APC not A.P.C.
 
-Consider if it might sometimes be helpful to explain an abbreviation or acronym more than once.
+Do not shorten days of the week or months of the year. Write them out in full. 
 
 ### alt text on images
 Follow the guidance on the [W3C accessibility website](https://www.w3.org/WAI/tutorials/images/decision-tree/).
+
+### ampersands (&)
+Do not use ampersands. Use the word 'and'. 
+
+This is easier for people to read and understand.
 
 ### article
 Use ‘article’ to refer to the final accepted manuscript (of article format), ready for publication.
@@ -117,6 +122,11 @@ Examples:
 Do not use.
 
 See: [link text](#link-text)
+
+### colons and semicolons
+Use a colon at the end of a lead-in line to introduce a quote or list.
+
+Otherwise, avoid using colons or semicolons. If you think a sentence needs a colon or semicolon, break it down into shorter sentences.
 
 ### collection (article collection)
 Lower case.
@@ -230,6 +240,9 @@ Example label on a UI form field:
 <br>
 - Funding source (for example, university or institutional funding)
 
+### email
+All one word. No hyphen.
+
 ### emails
 Follow the guidelines for plain language.
 
@@ -248,6 +261,10 @@ Example (button text): Download EPUB
 Avoid for UX microcopy or functional text.
 
 ## F
+
+### FAQ
+Not 'FAQs'.
+
 ### file names: PDF, DOC, ZIP
 Capitalised. Not ‘.PDF’.
 
@@ -262,6 +279,13 @@ We accept manuscripts in the following formats: DOC, PDF, ZIP.
 Lower case.
 
 ## H
+
+### hardback
+Use 'hardcover'.
+
+### hardcover.
+one word. Use instead of 'hardback'.
+
 ### hyphens
 Only use a hyphen if a word is confusing without it.
 
@@ -548,6 +572,8 @@ Use sparingly and only when necessary – especially on UI. Be mindful of the [v
 Use the 24 hour clock together with Coordinated Universal Time (UTC) if you are unable to tell which timezone your user is in.
 
 Use a colon (:) between the numbers.
+
+Use ‘to’ instead of a hyphen in date or time ranges. This makes it easier for screen readers.
 
 Examples:
 <br>
