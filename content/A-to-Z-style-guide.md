@@ -123,13 +123,13 @@ Do not use.
 
 See: [link text](#link-text)
 
+### collection (article collection)
+Lower case.
+
 ### colons and semicolons
 Use a colon at the end of a lead-in line to introduce a quote or list.
 
 Otherwise, avoid using colons or semicolons. If you think a sentence needs a colon or semicolon, break it down into shorter sentences.
-
-### collection (article collection)
-Lower case.
 
 ### contractions
 Using contractions can make your writing sound more human and personal.
@@ -283,8 +283,8 @@ Lower case.
 ### hardback
 Use 'hardcover'.
 
-### hardcover.
-one word. Use instead of 'hardback'.
+### hardcover
+One word. Use instead of 'hardback'.
 
 ### hyphens
 Only use a hyphen if a word is confusing without it.
