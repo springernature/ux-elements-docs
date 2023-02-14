@@ -56,7 +56,7 @@ If the line length of text is too long inside its containing space, use the `ch`
 
 Use the [layout stack component](https://elements.springernature.com/springernature/components/global-layout-stack) to add vertical space between elements. For example, you can use it to add space between cards stacked on top of each other and also between the elements inside the card. 
 
-![Diagram of a web page with various content elements represented by green rectangles. Orange blocks in between the elements show how the layout stack component will add vertical space between things.](https://user-images.githubusercontent.com/120400118/218753529-a2aca5f9-4115-4e5a-9087-baece71d9219.png)
+![Diagram of a web page with various content elements represented by green rectangles. Orange blocks in between the elements show how the layout stack component will add vertical space between things.](https://user-images.githubusercontent.com/15365576/218802157-97f87b48-15a3-4cb6-8998-7a3cc82605b1.png)
 
 Use the [layout cluster component](https://elements.springernature.com/springernature/components/global-layout-cluster) to add space between grouped inline elements such as buttons. Grouping elements closer together will help users to perceive them as related.
 
