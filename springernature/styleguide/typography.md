@@ -110,7 +110,11 @@ Use block spacing to place margins before paragraph and heading elements. Always
 
 
 ## Tools for designers
-- Use the Sketch style guide to use the Elements typography styles in your designs
-- If you’re designing in Sketch, we recommend using the stark plugin to the check colour contrast of text in your designs
 
- 
+To use the Elements typography styles in your designs, [use the Sketch style guide](https://www.sketch.com/s/fa9c2fc9-a179-43f0-b21e-9562c9c17c0c/p/E727F3A4-CA42-4A46-8253-BA6B31A84068/canvas).
+
+If you’re designing in Sketch, we recommend that you check the colour contrast of text using the [Stark plugin](https://www.getstark.co/support/getting-started/using-the-contrast-checker).
+
+## Help improve this page
+
+If you’ve got a question, idea or suggestion about how to improve this component or guidance, post in the [#ask-elements](https://springernature.slack.com/archives/CNBTFLBLP) Slack channel. 
