@@ -118,3 +118,7 @@ Don’t rely on colour as the [only visual means of conveying information](https
 - If you’re designing in Sketch, we recommend using the [stark plugin](https://www.getstark.co/sketch).
 - Install simulators such as [Color Oracle](https://colororacle.org/) or [Chromatic Vision](https://asada.website/cvsimulator) onto your device to simulate colour blindness in real time on your designs.
 - [Pa11y](https://pa11y.org/) is a set of free and open source tools to help designers and developers make their web pages more accessible.
+
+## Help improve this page
+
+If you’ve got a question, idea or suggestion about how to improve this component or guidance, post in the [#ask-elements](https://springernature.slack.com/archives/CNBTFLBLP) Slack channel.
