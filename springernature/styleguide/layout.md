@@ -105,3 +105,6 @@ Use the components in combination to achieve the right layout for your users.
 Apply the basic page template to your designs using the [Sketch style guide](https://www.sketch.com/s/fa9c2fc9-a179-43f0-b21e-9562c9c17c0c).
 
 Our layout components are based on [Every Layout](https://every-layout.dev/).
+
+## Help improve this page
+If you’ve got a question, idea or suggestion about how to improve this component or guidance, post in the [#ask-elements](https://springernature.slack.com/archives/CNBTFLBLP) Slack channel .
