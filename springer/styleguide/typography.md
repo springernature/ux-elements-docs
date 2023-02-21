@@ -1,18 +1,37 @@
 # Typography
 
  
-## Font Families
+## Typefaces
 
  
 ### Georgia
 Georgia is a serif typeface designed to be legible on low res screens. It is Springer's headline font, used for text headings. As a web safe font, Georgia is pre-installed on most modern operating systems, ensuring a consistent display on any device. This also benefits the user experience as it saves performance time in the browser.
 
 ### System fonts
-We use system fonts or “native typography” for all text elements that are interactive, such as buttons, forms and navigation links. We also use it for secondary information such as meta data, author names, publication dates and article summaries.
+Use system fonts as the default instead of a custom font. This means using the font of a particular operating system, which saves the browser downloading extra files. This improves the performance of our websites on slow connection speeds.
 
-For Springer sites, we now use this for as our primary body font.
+Use system fonts for body text, including:
 
-Using system fonts ensure our websites can perform well on slow connection speeds, creating a more frictionless experience. Sans-serif fonts that are native to the users’ OS, include Apple’s SF Pro and Microsoft’s Segoe UI and are well optimised for legibility.
+- interactive elements, like buttons, forms and navigation links
+- form elements, like text labels, hints and error messages
+- instructional text and status messages
+- secondary text such as metadata, author names and publication dates
+
+
+You can apply system fonts by calling them on an element using the font-family property:
+
+```
+body {
+font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif
+}
+
+h1 {
+fonf-family: cursive;
+}
+body {
+-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif
+}
+```
 
 
 ## Principles and usage
