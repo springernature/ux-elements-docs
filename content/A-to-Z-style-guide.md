@@ -37,6 +37,9 @@ Lower case.
 
 See: [roles](#roles-job-titles)
 
+### autorenewal
+No hyphen or dash.
+
 ## B
 ### basket
 E-commerce. Ideally, localise to domain.
@@ -117,6 +120,18 @@ Examples:
 - Creating an account will make it faster to check out next time.
 - Use your saved details for a faster checkout experience.
 - Go to checkout.
+
+### click
+
+Avoid using 'click' to instruct users to follow a link. 
+
+Instead use 'select'.
+
+Example:
+
+Select your journal.
+
+See: [select](#select)
 
 ### click here
 Do not use.
@@ -286,6 +301,12 @@ Use 'hardcover'.
 ### hardcover
 One word. Use instead of 'hardback'.
 
+### home
+
+In navigation and breadcrumbs, refer to the home page as 'Home'.
+
+Do not use 'Home page' or 'Homepage'.
+
 ### hyphens
 Only use a hyphen if a word is confusing without it.
 
@@ -307,6 +328,14 @@ Write:
 
 ### impact factor
 Lower case.
+
+### italics
+
+Use italics sparingly to highlight specific terms such as journal titles within paragraph text. They can be hard to read and will lose any meaning or emphasis if used too often.
+
+Do not use for headings. This will likely be hard to read and will conflict with heading styles.
+
+Do not create large blocks of italicised text, such as long lists of italicsised journal titles. This is hard to read and can be jarring for some users. 
 
 ## J
 ### job titles
@@ -504,6 +533,17 @@ Example: Go to your profile page and select ‘Editorial dashboard’.
 Use double quotes in body text for direct quotations.
 
 ## R
+
+### register
+
+When asking someone to create an account or register for an event.
+
+Examples:
+
+Log in or register
+
+Register a new account
+
 ### roles, job titles
 Specific job titles are capitalised, generic roles aren’t.
 
@@ -513,14 +553,27 @@ Elizabeth is Editor-in-Chief of journal x. We have many editors-in-chief.
 
 ## S
 ### salutation (emails)
+
 Use: Dear Title First name Last name
 
-### sign in, sign out, sign up
+### select
+
+Use instead of 'click' when instructing a user to follow a link.
+
+We do not know what device someone is using or how they are using it. 'Select' is more relevant to all situations.
+
+### sign in, sign out
 Use ‘log in/out’ instead of ‘sign in/out’.
 
-Sign up (meaning ‘register’) is fine.
-
 See [log in](#log-in-login)
+
+### sign up
+
+Use when asking users to give their information in return for a deliverable.
+
+Example:
+
+Sign up to receive our newsletter
 
 ### signature (for system emails)
 
@@ -561,6 +614,22 @@ This refers to all the documents and data an author submits through Snapp. This 
 
 See: [manuscript](#manuscript)
 
+### support
+
+There are many possible ways to direct people to support or help content depending on the context.
+
+Whether they are within the user interface or longer form content, calls to contact support should be:
+
+- brief
+- consistent
+- active and direct
+
+Examples:
+
+Need help? Contact us
+
+Contact customer service
+
 ## T
 ### terms and conditions
 Lower case. Use ‘and’ not ‘&’.
@@ -597,7 +666,7 @@ Here are the Springer Nature brand attributes that apply to UX writing, with som
 
 - **friendly**
   - write things as you’d say them out loud (for example: ‘We’ve sent you a security code’ instead of ‘You have been sent a security code’)
-  - use contractions like ‘you’ll’ instead of ‘you will’
+  - use positive contractions like ‘you’ll’ instead of ‘you will’
   - say sorry when something has gone wrong  (for example, ‘Sorry, this service is currently unavailable. Try again in a few minutes’)
 - **transparent**
   - be specific about what will happen and when (for example, ‘We’ll email you within 24 hours’)
@@ -615,7 +684,7 @@ Here are the Springer Nature brand attributes that apply to UX writing, with som
 
 We want to sound human and empathetic. Using empathy in writing means being sensitive to the user’s context, particularly in stressful moments.
 
-When it comes to error messaging,  payments and transactions, time-based interactions,  clarity always comes first.
+When it comes to error messaging, payments and transactions, time-based interactions, clarity always comes first.
 
 ## X
 
