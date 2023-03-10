@@ -331,11 +331,11 @@ Lower case.
 
 ### italics
 
-Use italics sparingly to highlight specific terms such as journal titles within paragraph text. They can be hard to read and will lose any meaning or emphasis if used too often.
+Use italics sparingly to highlight specific terms such as journal titles within paragraph text. They will lose any meaning or emphasis if used too often.
 
-Do not use for headings. This will likely be hard to read and will conflict with heading styles.
+Do not use for headings. This will conflict with heading styles.
 
-Do not create large blocks of italicised text, such as long lists of italicsised journal titles. This is hard to read and can be jarring for some users. 
+Do not create large blocks of italicised text, such as long lists of italicised journal titles. This is hard to read and can be jarring for some users. 
 
 ## J
 ### job titles
