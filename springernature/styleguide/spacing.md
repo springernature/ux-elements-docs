@@ -98,5 +98,5 @@ For components with high information density, such as a table, use smaller units
 - [Gestalt psychology, Encyclopedia of Animal Cognition and Behavior ](https://link.springer.com/referenceworkentry/10.1007/978-3-319-55065-7_1257#Sec7231)
 - [Space in Design Systems](https://medium.com/eightshapes-llc/space-in-design-systems-188bcbae0d62)
 
-#Help improve this page
+## Help improve this page
 If you’ve got a question, idea or suggestion about how to improve this component or guidance, post in the [#ask-elements](https://springernature.slack.com/archives/CNBTFLBLP) Slack channel. 
